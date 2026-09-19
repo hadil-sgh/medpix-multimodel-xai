@@ -42,14 +42,14 @@ if __name__ == "__main__":
     llm_model = args.llm_model
     device = args.device
     split = args.split
-    relations = args.relations
+    relations = args.relations    
     lower = args.lower
 
     device = device if torch.cuda.is_available() else "cpu"
     
     if llm_model == 'llama31inst':
         # path to local llama 3.1 8B inst
-        llm_model_path = 'LLM/llama31inst/'
+        llm_model_path = 'microsoft/Phi-3-mini-4k-instruct' 
 
     path = 'MedPix-2-0/'
 

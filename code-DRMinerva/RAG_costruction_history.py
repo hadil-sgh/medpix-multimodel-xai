@@ -87,7 +87,7 @@ if __name__ == '__main__':
         model_name=model_name,
         #multi_process=True,
         model_kwargs={"device": "cuda:0", "trust_remote_code": True},
-        encode_kwargs={"normalize_embeddings": True}) # Set `True` for cosine similarity
+        encode_kwargs={"normalize_embeddings": True, "batch_size": 2}) # Set `True` for cosine similarity
 
     print("Creating vector store...")
 
