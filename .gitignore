@@ -1,3 +1,5 @@
 __pycache__/
 *.pyc
 medpix-env/
+MedPix-2-0/rag-corpus-history/
+code-DRMinerva/MedPix-2-0/
