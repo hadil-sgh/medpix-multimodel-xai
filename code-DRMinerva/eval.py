@@ -137,7 +137,7 @@ if __name__ == '__main__':
             else:
                 context_str, vision_context, context_counter = get_rag_context(sample, retrieved_reports, dataset, path, image_processor, description_per_uid, inference_label)
 
-            with open(f"{path}code/prompt.json", 'r') as f:
+            with open("prompt.json", 'r') as f:
                 raw_prompt = json.load(f)
 
             if inference_label == 'modality':
@@ -153,7 +153,7 @@ if __name__ == '__main__':
             for description in descriptions:
                 age = get_block(description, 'Age', 'Description')
                 sex = get_block(description, 'Sex', 'Description')
-                image = Image.open(path+'MedPix-2-0/images/'+description['image']+'.png')
+                image = Image.open(path+'images/'+description['image']+'.png')
                 vision_query = image_processor(image).unsqueeze(0)
                 if inference_label == 'modality' or inference_label == 'joint':
                     split_text = "The image is a "

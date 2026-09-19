@@ -1,0 +1,65 @@
+{'n_exp': 4, 'inference_split': 'train_2', 'emb_model': 'Linq-AI-Research/Linq-Embed-Mistral', 'llm_model': 'sapienzanlp/Minerva-3B-base-v1.0', 'visual_encoder': 'ViT-L-14', 'flamingo_v': 'flamingo-base', 'rag': True, 'inference': 'joint'}
+Sample_idx	Sample_id	Image_id	Golden label	Prediction
+0	MPX1763	MPX1763_synpic253	['CT', 'Abdomen']	 gone gone been gone been Jan ed  gone  been Jan worsently gone to been Jan 
+1	MPX2482	MPX2482_synpic46986	['MR', 'Head']	10000000000000000000
+1	MPX2482	MPX2482_synpic46987	['MR', 'Head']	10000000000000000000
+2	MPX1581	MPX1581_synpic20988	['MR', 'Head']	 you you you you you you you you you you you you you you you you you you you you
+2	MPX1581	MPX1581_synpic20989	['MR', 'Head']	 you you you you you you you you you you you you you you you you you you you you
+2	MPX1581	MPX1581_synpic20990	['MR', 'Head']	 you you you you you you you you you you you you you you you you you you you you
+2	MPX1581	MPX1581_synpic21016	['MR', 'Head']	 you you you you you you you you you you you you you you you you you you you you
+2	MPX1581	MPX1581_synpic21017	['MR', 'Head']	 you you you you you you you you you you you you you you you you you you you you
+2	MPX1581	MPX1581_synpic21018	['MR', 'Head']	 you you you you you you you you you you you you you you you you you you you you
+3	MPX1575	MPX1575_synpic39398	['CT', 'Thorax']	100% 100% 100% 100% 
+4	MPX2455	MPX2455_synpic55402	['CT', 'Spine and Muscles']	 MR scan showing a Spine and Muscles. <nl>PMHx: HTN, hyperlip
+5	MPX2301	MPX2301_synpic45657	['MR', 'Spine and Muscles']	 you <nl> you <nl> 1. <nl> 1. <nl> . <nl>. 1. <nl>
+5	MPX2301	MPX2301_synpic45808	['MR', 'Spine and Muscles']	 you <nl> you <nl> 1. <nl> 1. <nl> . <nl>. 1. <nl>
+5	MPX2301	MPX2301_synpic45809	['MR', 'Spine and Muscles']	 you <nl> you <nl> 1. <nl> 1. <nl> . <nl>. 1. <nl>
+6	MPX2536	MPX2536_synpic24348	['CT', 'Head']	 you you you you you you you you you you you you you you you you you you you you
+7	MPX2228	MPX2228_synpic15174	['CT', 'Thorax']	   Jan  worsening over the under presentation  Jan worsening over the under presentation. 
+8	MPX1058	MPX1058_synpic17148	['CT', 'Thorax']	 you you you <nl> you <nl> you <nl> you <nl> you <nl> you <nl> you <nl> you <nl> you <nl>
+9	MPX1285	MPX1285_synpic20838	['CT', 'Head']	 you you you you you you you you you you you you you you you you you you you you
+9	MPX1285	MPX1285_synpic20840	['CT', 'Head']	 you you you you you you you you you you you you you you you you you you you you
+10	MPX1300	MPX1300_synpic24424	['CT', 'Abdomen']	1. <nl> you <nl>. <nl>. <nl>. <nl>. <nl>. <nl>. <nl>. <nl>.
+11	MPX1708	MPX1708_synpic18841	['CT', 'Thorax']	1 and 1 and 1 1 1 1 1 1 1 
+12	MPX1289	MPX1289_synpic50615	['CT', 'Abdomen']	3D CT scan of the abdomen. <nl>
+12	MPX1289	MPX1289_synpic50618	['CT', 'Abdomen']	3D CT scan of the abdomen. <nl>
+13	MPX1993	MPX1993_synpic23559	['CT', 'Abdomen']	 you you you you you you you you you you you you you you you you you you <nl> you
+14	MPX2078	MPX2078_synpic35704	['CT', 'Abdomen']	 you you you you you you you you you you you you you you you you you you you you
+14	MPX2078	MPX2078_synpic35705	['CT', 'Abdomen']	 you you you you you you you you you you you you you you you you you you you you
+14	MPX2078	MPX2078_synpic35706	['CT', 'Abdomen']	 you you you you you you you you you you you you you you you you you you you you
+15	MPX1239	MPX1239_synpic45229	['CT', 'Spine and Muscles']	 you you you you you you you you you you you you you you you you you you you you
+16	MPX2008	MPX2008_synpic27563	['MR', 'Spine and Muscles']	 you you you you you you you you you you you you you you you you you you you you
+16	MPX2008	MPX2008_synpic27564	['MR', 'Spine and Muscles']	 you you you you you you you you you you you you you you you you you you you you
+17	MPX2572	MPX2572_synpic17801	['CT', 'Spine and Muscles']	20. 20. 20. 20. 20. 
+17	MPX2572	MPX2572_synpic17802	['CT', 'Spine and Muscles']	20. 20. 20. 20. 20. 
+18	MPX2477	MPX2477_synpic21251	['CT', 'Abdomen']	 <nl>FMHX: <nl>  •  Sister ( sister died of lung cancer in 19
+19	MPX2315	MPX2315_synpic16520	['CT', 'Head']	 you <nl> you <nl> you <nl> you <nl> you <nl> you <nl> you <nl> you <nl> you <nl> you <nl>
+19	MPX2315	MPX2315_synpic16521	['MR', 'Head']	 you <nl> you <nl> you <nl> you <nl> you <nl> you <nl> you <nl> you <nl> you <nl> you <nl>
+19	MPX2315	MPX2315_synpic16522	['MR', 'Head']	 you <nl> you <nl> you <nl> you <nl> you <nl> you <nl> you <nl> you <nl> you <nl> you <nl>
+19	MPX2315	MPX2315_synpic16523	['MR', 'Head']	 you <nl> you <nl> you <nl> you <nl> you <nl> you <nl> you <nl> you <nl> you <nl> you <nl>
+19	MPX2315	MPX2315_synpic16524	['MR', 'Head']	 you <nl> you <nl> you <nl> you <nl> you <nl> you <nl> you <nl> you <nl> you <nl> you <nl>
+20	MPX2018	MPX2018_synpic16378	['CT', 'Spine and Muscles']	 you you you you you you you you you you you you you you you you you you you you
+20	MPX2018	MPX2018_synpic16377	['MR', 'Spine and Muscles']	 you you you you you you you you you you you you you you you you you you you you
+21	MPX1049	MPX1049_synpic55185	['MR', 'Head']	 you <nl> you <nl> you <nl> you <nl> you <nl> you <nl> you <nl> you <nl> you <nl> you <nl>
+21	MPX1049	MPX1049_synpic55186	['MR', 'Head']	 you <nl> you <nl> you <nl> you <nl> you <nl> you <nl> you <nl> you <nl> you <nl> you <nl>
+21	MPX1049	MPX1049_synpic55187	['MR', 'Head']	 you <nl> you <nl> you <nl> you <nl> you <nl> you <nl> you <nl> you <nl> you <nl> you <nl>
+21	MPX1049	MPX1049_synpic55188	['MR', 'Head']	 you <nl> you <nl> you <nl> you <nl> you <nl> you <nl> you <nl> you <nl> you <nl> you <nl>
+21	MPX1049	MPX1049_synpic55189	['MR', 'Head']	 you <nl> you <nl> you <nl> you <nl> you <nl> you <nl> you <nl> you <nl> you <nl> you <nl>
+21	MPX1049	MPX1049_synpic55190	['MR', 'Head']	 you <nl> you <nl> you <nl> you <nl> you <nl> you <nl> you <nl> you <nl> you <nl> you <nl>
+21	MPX1049	MPX1049_synpic55191	['MR', 'Head']	 you <nl> you <nl> you <nl> you <nl> you <nl> you <nl> you <nl> you <nl> you <nl> you <nl>
+21	MPX1049	MPX1049_synpic55192	['MR', 'Head']	 you <nl> you <nl> you <nl> you <nl> you <nl> you <nl> you <nl> you <nl> you <nl> you <nl>
+22	MPX1563	MPX1563_synpic51033	['CT', 'Head']	 you you you <nl> you you you <nl> you <nl> you <nl> you <nl> you <nl> you <nl>. <nl>
+22	MPX1563	MPX1563_synpic51034	['MR', 'Head']	 you you you <nl> you you you <nl> you <nl> you <nl> you <nl> you <nl> you <nl>. <nl>
+22	MPX1563	MPX1563_synpic51035	['MR', 'Head']	 you you you <nl> you you you <nl> you <nl> you <nl> you <nl> you <nl> you <nl>. <nl>
+23	MPX2595	MPX2595_synpic51006	['CT', 'Reproductive and Urinary System']	 <nl>. <nl>. <nl>. <nl> . <nl>. <nl>. <nl>. <nl>. <nl>. <nl>
+23	MPX2595	MPX2595_synpic51007	['CT', 'Reproductive and Urinary System']	 <nl>. <nl>. <nl>. <nl> . <nl>. <nl>. <nl>. <nl>. <nl>. <nl>
+24	MPX1997	MPX1997_synpic21435	['CT', 'Head']	 you you you you you you you <nl> you you <nl>. <nl>. <nl>. <nl>. <nl>.
+24	MPX1997	MPX1997_synpic21436	['MR', 'Head']	 you you you you you you you <nl> you you <nl>. <nl>. <nl>. <nl>. <nl>.
+24	MPX1997	MPX1997_synpic21437	['MR', 'Head']	 you you you you you you you <nl> you you <nl>. <nl>. <nl>. <nl>. <nl>.
+25	MPX1243	MPX1243_synpic24671	['CT', 'Spine and Muscles']	 <nl>. <nl>. <nl>. <nl>. <nl>. <nl>. <nl>. <nl>. <nl>. <nl>.
+25	MPX1243	MPX1243_synpic24673	['CT', 'Spine and Muscles']	 <nl>. <nl>. <nl>. <nl>. <nl>. <nl>. <nl>. <nl>. <nl>. <nl>.
+25	MPX1243	MPX1243_synpic24674	['CT', 'Spine and Muscles']	 <nl>. <nl>. <nl>. <nl>. <nl>. <nl>. <nl>. <nl>. <nl>. <nl>.
+26	MPX1381	MPX1381_synpic17620	['CT', 'Abdomen']	 you you you you you you you you you you you you you you you you you you you you
+26	MPX1381	MPX1381_synpic17621	['CT', 'Abdomen']	 you you you you you you you you you you you you you you you you you you you you
+26	MPX1381	MPX1381_synpic17622	['CT', 'Abdomen']	 you you you you you you you you you you you you you you you you you you you you
+26	MPX1381	MPX1381_synpic17623	['CT', 'Abdomen']	 you you you you you you you you you you you you you you you you you you you you

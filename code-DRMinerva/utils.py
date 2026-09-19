@@ -85,6 +85,7 @@ def load_model(clip_vision_encoder_path, clip_vision_encoder_pretrained, lang_en
         lang_encoder_path = lang_encoder_path,
         tokenizer_path=tokenizer_path,
         cross_attn_every_n_layers=1,
+        decoder_layers_attr_name="model.layers",
         #cache_dir="PATH/TO/CACHE/DIR"  # Defaults to ~/.cache
     )
 
@@ -99,6 +100,7 @@ def load_model(clip_vision_encoder_path, clip_vision_encoder_pretrained, lang_en
         checkpoint_path = hf_hub_download("openflamingo/OpenFlamingo-3B-vitl-mpt1b", "checkpoint.pt")
         model.load_state_dict(torch.load(checkpoint_path), strict=False)
 
+    model = model.half()
     return model, image_processor, tokenizer
 
 def load_model_cpu(clip_vision_encoder_path, clip_vision_encoder_pretrained, lang_encoder_path, tokenizer_path, checkpoint=None):
@@ -187,12 +189,11 @@ def inference(visual_input, textual_input, model, tokenizer, device):
     lang_x = tokenizer([textual_input], return_tensors="pt")
 
     generated_text = model.generate(
-        vision_x=vision_x.to(device),
+        vision_x=vision_x.to(device, dtype=torch.float16),
         lang_x=lang_x["input_ids"].to(device),
         attention_mask=lang_x["attention_mask"].to(device),
         max_new_tokens=20,
-        num_beams=3,
-        pad_token_id=tokenizer.eos_token_id)
+        num_beams=3)
 
     output = tokenizer.decode(generated_text[0])
 
