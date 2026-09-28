@@ -1,0 +1,235 @@
+{
+ "threshold": 0.32,
+ "target": 0.9,
+ "picked_on": "dev",
+ "table": [
+  {
+   "threshold": 0.2,
+   "short_coverage": 0.463,
+   "short_joint_acc": 0.877,
+   "long_joint_acc": 0.543
+  },
+  {
+   "threshold": 0.22,
+   "short_coverage": 0.463,
+   "short_joint_acc": 0.877,
+   "long_joint_acc": 0.543
+  },
+  {
+   "threshold": 0.24,
+   "short_coverage": 0.457,
+   "short_joint_acc": 0.887,
+   "long_joint_acc": 0.537
+  },
+  {
+   "threshold": 0.26,
+   "short_coverage": 0.451,
+   "short_joint_acc": 0.886,
+   "long_joint_acc": 0.542
+  },
+  {
+   "threshold": 0.28,
+   "short_coverage": 0.446,
+   "short_joint_acc": 0.885,
+   "long_joint_acc": 0.546
+  },
+  {
+   "threshold": 0.3,
+   "short_coverage": 0.429,
+   "short_joint_acc": 0.893,
+   "long_joint_acc": 0.55
+  },
+  {
+   "threshold": 0.32,
+   "short_coverage": 0.411,
+   "short_joint_acc": 0.917,
+   "long_joint_acc": 0.544
+  },
+  {
+   "threshold": 0.34,
+   "short_coverage": 0.394,
+   "short_joint_acc": 0.928,
+   "long_joint_acc": 0.547
+  },
+  {
+   "threshold": 0.36,
+   "short_coverage": 0.383,
+   "short_joint_acc": 0.925,
+   "long_joint_acc": 0.556
+  },
+  {
+   "threshold": 0.38,
+   "short_coverage": 0.36,
+   "short_joint_acc": 0.921,
+   "long_joint_acc": 0.571
+  },
+  {
+   "threshold": 0.4,
+   "short_coverage": 0.326,
+   "short_joint_acc": 0.912,
+   "long_joint_acc": 0.593
+  },
+  {
+   "threshold": 0.42,
+   "short_coverage": 0.274,
+   "short_joint_acc": 0.917,
+   "long_joint_acc": 0.614
+  },
+  {
+   "threshold": 0.44,
+   "short_coverage": 0.206,
+   "short_joint_acc": 0.889,
+   "long_joint_acc": 0.647
+  },
+  {
+   "threshold": 0.46,
+   "short_coverage": 0.149,
+   "short_joint_acc": 0.885,
+   "long_joint_acc": 0.664
+  },
+  {
+   "threshold": 0.48,
+   "short_coverage": 0.109,
+   "short_joint_acc": 0.895,
+   "long_joint_acc": 0.673
+  },
+  {
+   "threshold": 0.5,
+   "short_coverage": 0.08,
+   "short_joint_acc": 0.929,
+   "long_joint_acc": 0.677
+  },
+  {
+   "threshold": 0.52,
+   "short_coverage": 0.057,
+   "short_joint_acc": 1.0,
+   "long_joint_acc": 0.679
+  },
+  {
+   "threshold": 0.54,
+   "short_coverage": 0.023,
+   "short_joint_acc": 1.0,
+   "long_joint_acc": 0.69
+  },
+  {
+   "threshold": 0.56,
+   "short_coverage": 0.017,
+   "short_joint_acc": 1.0,
+   "long_joint_acc": 0.692
+  },
+  {
+   "threshold": 0.58,
+   "short_coverage": 0.011,
+   "short_joint_acc": 1.0,
+   "long_joint_acc": 0.694
+  },
+  {
+   "threshold": 0.6,
+   "short_coverage": 0.006,
+   "short_joint_acc": 1.0,
+   "long_joint_acc": 0.695
+  },
+  {
+   "threshold": 0.62,
+   "short_coverage": 0.006,
+   "short_joint_acc": 1.0,
+   "long_joint_acc": 0.695
+  },
+  {
+   "threshold": 0.64,
+   "short_coverage": 0.006,
+   "short_joint_acc": 1.0,
+   "long_joint_acc": 0.695
+  },
+  {
+   "threshold": 0.66,
+   "short_coverage": 0.006,
+   "short_joint_acc": 1.0,
+   "long_joint_acc": 0.695
+  },
+  {
+   "threshold": 0.68,
+   "short_coverage": 0.006,
+   "short_joint_acc": 1.0,
+   "long_joint_acc": 0.695
+  },
+  {
+   "threshold": 0.7,
+   "short_coverage": 0.006,
+   "short_joint_acc": 1.0,
+   "long_joint_acc": 0.695
+  },
+  {
+   "threshold": 0.72,
+   "short_coverage": 0.006,
+   "short_joint_acc": 1.0,
+   "long_joint_acc": 0.695
+  },
+  {
+   "threshold": 0.74,
+   "short_coverage": 0.006,
+   "short_joint_acc": 1.0,
+   "long_joint_acc": 0.695
+  },
+  {
+   "threshold": 0.76,
+   "short_coverage": 0.0,
+   "short_joint_acc": NaN,
+   "long_joint_acc": 0.697
+  },
+  {
+   "threshold": 0.78,
+   "short_coverage": 0.0,
+   "short_joint_acc": NaN,
+   "long_joint_acc": 0.697
+  },
+  {
+   "threshold": 0.8,
+   "short_coverage": 0.0,
+   "short_joint_acc": NaN,
+   "long_joint_acc": 0.697
+  },
+  {
+   "threshold": 0.82,
+   "short_coverage": 0.0,
+   "short_joint_acc": NaN,
+   "long_joint_acc": 0.697
+  },
+  {
+   "threshold": 0.84,
+   "short_coverage": 0.0,
+   "short_joint_acc": NaN,
+   "long_joint_acc": 0.697
+  },
+  {
+   "threshold": 0.86,
+   "short_coverage": 0.0,
+   "short_joint_acc": NaN,
+   "long_joint_acc": 0.697
+  },
+  {
+   "threshold": 0.88,
+   "short_coverage": 0.0,
+   "short_joint_acc": NaN,
+   "long_joint_acc": 0.697
+  },
+  {
+   "threshold": 0.9,
+   "short_coverage": 0.0,
+   "short_joint_acc": NaN,
+   "long_joint_acc": 0.697
+  },
+  {
+   "threshold": 0.92,
+   "short_coverage": 0.0,
+   "short_joint_acc": NaN,
+   "long_joint_acc": 0.697
+  },
+  {
+   "threshold": 0.94,
+   "short_coverage": 0.0,
+   "short_joint_acc": NaN,
+   "long_joint_acc": 0.697
+  }
+ ]
+}
