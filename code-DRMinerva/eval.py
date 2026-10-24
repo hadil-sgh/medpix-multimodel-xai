@@ -7,6 +7,7 @@ import json
 import os
 
 from utils import get_block, get_description_per_uid, get_rag_context, get_static_context, inference, load_complete_dataset, load_complete_dataset_description, load_model
+from utils import get_rag_context_medgemma, inference_medgemma, load_medgemma, medgemma_user_turn, parse_medgemma
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
@@ -31,6 +32,8 @@ if __name__ == '__main__':
     parser.add_argument('--no-checkpoint_load', dest='checkpoint_load', action='store_false')
     parser.set_defaults(checkpoint_load=False)
     parser.add_argument('--checkpoint_n', type=int, default=1)
+    parser.add_argument('--n_cases', type=int, default=0, help='only run this many cases from starting_index (0 = all)')
+    parser.add_argument('--max_ctx_images', type=int, default=4, help='medgemma: max RAG example images per prompt (0 = all)')
     args = parser.parse_args()
     
     starting_index = args.starting_index
@@ -60,6 +63,11 @@ if __name__ == '__main__':
     elif llm_model == 'mpt1b':
         llm_model_name = "anas-awadalla/mpt-1b-redpajama-200b"
         llm_model_str = "mpt-1b"
+    elif llm_model == 'medgemma':
+        llm_model_name = "google/medgemma-4b-it"
+        llm_model_str = "medgemma-4b-it"
+        if not (zero_shot or rag):
+            parser.error("--llm_model medgemma needs --rag or --zero-shot")
     else:
         llm_model == 'minerva'
         llm_model_name = "sapienzanlp/Minerva-3B-base-v1.0"
@@ -81,8 +89,13 @@ if __name__ == '__main__':
     tokenizer_path = llm_model_name
 
     device = device_name if cuda.is_available() else 'cpu'
-    
-    if args.checkpoint_load:
+
+    if llm_model == 'medgemma':
+        # MedGemma has its own vision encoder and is used as released (no Flamingo checkpoint)
+        clip_vision_encoder_path = "medgemma-builtin"
+        flamingo_v = 'none'
+        model, processor = load_medgemma(llm_model_name)
+    elif args.checkpoint_load:
         checkpoint_path = f'MedPix-2-0/DR_minerva_flamingo/checkpoint_{args.checkpoint_n}.pt'
         print(f"Loading checkpoint from {checkpoint_path}")
         checkpoint = torch.load(checkpoint_path, map_location="cpu")
@@ -91,10 +104,10 @@ if __name__ == '__main__':
         checkpoint = None
         flamingo_v = 'flamingo-base'
 
-
-    model, image_processor, tokenizer = load_model(clip_vision_encoder_path, clip_vision_encoder_pretrained, lang_encoder_path, tokenizer_path, device, checkpoint)
-    tokenizer.padding_side = "left"
-    model.eval()
+    if llm_model != 'medgemma':
+        model, image_processor, tokenizer = load_model(clip_vision_encoder_path, clip_vision_encoder_pretrained, lang_encoder_path, tokenizer_path, device, checkpoint)
+        tokenizer.padding_side = "left"
+        model.eval()
     
     # inference
     os.makedirs(f"{path}experiments/{n_exp}", exist_ok=True)
@@ -130,20 +143,31 @@ if __name__ == '__main__':
         f.write(f"{'-'*50}\n")
 
     for idx, sample in enumerate(tqdm(dataset[inference_split])):
+        if args.n_cases and idx >= starting_index + args.n_cases:
+            break
         if idx >= starting_index:
-            
+
+            with open("prompt.json", 'r') as f:
+                raw_prompt = json.load(f)
+
             # preparare context
-            if zero_shot:
+            if llm_model == 'medgemma':
+                question = raw_prompt['question_medgemma']
+                system_turn = {"role": "system", "content": [{"type": "text", "text": raw_prompt['system_medgemma']}]}
+                if zero_shot:
+                    context_turns = []
+                else:
+                    context_turns = get_rag_context_medgemma(sample, retrieved_reports, dataset, path, description_per_uid, question, args.max_ctx_images)
+            elif zero_shot:
                 context_str, vision_context, context_counter = '', [], 0
             elif not rag:
                 context_str, vision_context, context_counter = get_static_context(dataset, path, image_processor, description_per_uid, inference_label)
             else:
                 context_str, vision_context, context_counter = get_rag_context(sample, retrieved_reports, dataset, path, image_processor, description_per_uid, inference_label)
 
-            with open("prompt.json", 'r') as f:
-                raw_prompt = json.load(f)
-
-            if inference_label == 'modality':
+            if llm_model == 'medgemma':
+                prompt = None
+            elif inference_label == 'modality':
                 prompt = raw_prompt['instruction_modality']+context_str
             elif inference_label == 'location':
                 prompt = raw_prompt['instruction_location']+context_str
@@ -157,25 +181,36 @@ if __name__ == '__main__':
                 age = get_block(description, 'Age', 'Description')
                 sex = get_block(description, 'Sex', 'Description')
                 image = Image.open(path+'images/'+description['image']+'.png')
-                vision_query = image_processor(image).unsqueeze(0)
-                if inference_label == 'modality' or inference_label == 'joint':
-                    split_text = "The image is a "
-                elif inference_label == 'location':
-                    split_text = "The image shows a "
-                text = f"<image> {age}{sex}patient. {history}\n{split_text}"
-                
-                # keep the prompt under MPT-1B's 2048-token limit: drop the oldest RAG examples if needed
-                ctx_chunks = [c + '<|endofchunk|>' for c in context_str.split('<|endofchunk|>') if c.strip()]
-                ctx_vis = list(vision_context)
-                instr = prompt[:len(prompt) - len(context_str)] if context_str else prompt
-                while ctx_chunks and len(tokenizer(instr + ''.join(ctx_chunks) + text)['input_ids']) > 2048 - 25:
-                    ctx_chunks.pop(0); ctx_vis.pop(0)
-                n_ctx = len(ctx_chunks) + 1 if context_str else context_counter
-                try:
-                    raw_output = inference(ctx_vis + [vision_query], instr + ''.join(ctx_chunks) + text, model, tokenizer, device).split(split_text)[n_ctx]
-                except (AssertionError, IndexError):
-                    raw_output = '[skipped: prompt too long]'
-                output = raw_output.replace('\n', ' <nl>')
+
+                if llm_model == 'medgemma':
+                    messages = [system_turn] + context_turns + [medgemma_user_turn(image.convert("RGB"), age, sex, history, question)]
+                    raw_output = inference_medgemma(messages, model, processor)
+                    modality, location = parse_medgemma(raw_output)
+                    # same wording as DR-Minerva so evaluate-code.py and code-KG read it unchanged
+                    if modality != '?' and location != '?':
+                        output = f"{modality} scan showing a {location}."
+                    else:
+                        output = raw_output.replace('\n', ' <nl>')
+                else:
+                    vision_query = image_processor(image).unsqueeze(0)
+                    if inference_label == 'modality' or inference_label == 'joint':
+                        split_text = "The image is a "
+                    elif inference_label == 'location':
+                        split_text = "The image shows a "
+                    text = f"<image> {age}{sex}patient. {history}\n{split_text}"
+
+                    # keep the prompt under MPT-1B's 2048-token limit: drop the oldest RAG examples if needed
+                    ctx_chunks = [c + '<|endofchunk|>' for c in context_str.split('<|endofchunk|>') if c.strip()]
+                    ctx_vis = list(vision_context)
+                    instr = prompt[:len(prompt) - len(context_str)] if context_str else prompt
+                    while ctx_chunks and len(tokenizer(instr + ''.join(ctx_chunks) + text)['input_ids']) > 2048 - 25:
+                        ctx_chunks.pop(0); ctx_vis.pop(0)
+                    n_ctx = len(ctx_chunks) + 1 if context_str else context_counter
+                    try:
+                        raw_output = inference(ctx_vis + [vision_query], instr + ''.join(ctx_chunks) + text, model, tokenizer, device).split(split_text)[n_ctx]
+                    except (AssertionError, IndexError):
+                        raw_output = '[skipped: prompt too long]'
+                    output = raw_output.replace('\n', ' <nl>')
 
                 with open(f"{path}experiments/{n_exp}/results-{inference_split}-{inference_label}.txt", "a") as f:
                     if inference_label == 'modality':

@@ -1,7 +1,7 @@
-from open_flamingo import create_model_and_transforms
 from datasets import load_dataset, DatasetDict
 from huggingface_hub import hf_hub_download
 from PIL import Image
+import re
 import torch
 
 def load_custom_dataset(split):
@@ -114,6 +114,8 @@ def load_model(clip_vision_encoder_path, clip_vision_encoder_pretrained, lang_en
     return model, image_processor, tokenizer
 
 def load_model_cpu(clip_vision_encoder_path, clip_vision_encoder_pretrained, lang_encoder_path, tokenizer_path, checkpoint=None):
+    # imported here so MedGemma runs do not need open_flamingo installed
+    from open_flamingo import create_model_and_transforms
     model, image_processor, tokenizer = create_model_and_transforms(
         #device,
         clip_vision_encoder_path = clip_vision_encoder_path,
@@ -215,7 +217,74 @@ def inference(visual_input, textual_input, model, tokenizer, device):
     torch.cuda.empty_cache()
 
     return output
-    
+
+# MedGemma-4b-it: replaces the Flamingo model, same RAG context (retrieved train_1 cases as few-shot examples)
+MEDGEMMA_LOCS = ["Head", "Thorax", "Abdomen", "Spine and Muscles", "Reproductive and Urinary System"]
+MEDGEMMA_SYN = {"brain": "Head", "skull": "Head", "chest": "Thorax", "lung": "Thorax",
+                "spine": "Spine and Muscles", "pelvis": "Reproductive and Urinary System"}
+
+def load_medgemma(model_id="google/medgemma-4b-it"):
+    from transformers import AutoProcessor, AutoModelForImageTextToText, BitsAndBytesConfig
+    bnb = BitsAndBytesConfig(load_in_4bit=True, bnb_4bit_quant_type="nf4", bnb_4bit_compute_dtype=torch.bfloat16)
+    model = AutoModelForImageTextToText.from_pretrained(model_id, quantization_config=bnb, device_map="auto")
+    processor = AutoProcessor.from_pretrained(model_id)
+    model.eval()
+    return model, processor
+
+def medgemma_user_turn(image, age, sex, history, question):
+    return {"role": "user", "content": [{"type": "image", "image": image},
+                                        {"type": "text", "text": f"{age}{sex}patient. {history}\n{question}"}]}
+
+def get_rag_context_medgemma(sample, retrieved_reports, dataset, path, description_per_uid, question, max_images=4):
+    # same retrieved cases as get_rag_context, as user/assistant chat turns; max_images=0 keeps every image
+    turns = []
+    for context in retrieved_reports[sample['U_id']]:
+        sample_context = pick_sample(dataset, context)
+        history_context = get_block(sample_context, 'History', 'Case')
+
+        for description in description_per_uid[sample_context['U_id']]:
+            if max_images and len(turns) // 2 >= max_images:
+                return turns
+            age_context = get_block(description, 'Age', 'Description')
+            sex_context = get_block(description, 'Sex', 'Description')
+            image = Image.open(path+'images/'+description['image']+'.png').convert("RGB")
+            turns.append(medgemma_user_turn(image, age_context, sex_context, history_context, question))
+            turns.append({"role": "assistant", "content": [{"type": "text", "text": f"Modality: {description['Type']}\nLocation: {description['Location Category']}"}]})
+    return turns
+
+def inference_medgemma(messages, model, processor, max_new_tokens=30):
+    inputs = processor.apply_chat_template(messages, add_generation_prompt=True, tokenize=True,
+                                           return_dict=True, return_tensors="pt").to(model.device, dtype=torch.bfloat16)
+    n = inputs["input_ids"].shape[-1]
+    with torch.inference_mode():
+        out = model.generate(**inputs, max_new_tokens=max_new_tokens, do_sample=False)
+    output = processor.decode(out[0][n:], skip_special_tokens=True).strip()
+
+    del inputs
+    del out
+    torch.cuda.empty_cache()
+
+    return output
+
+def parse_medgemma(answer):
+    # "Modality: MRI\nLocation: Brain" -> ("MR", "Head"); "?" when a field cannot be read
+    m = re.search(r"modality:\s*(CT|MRI|MR)", answer, re.I)
+    modality = ("MR" if m.group(1).upper().startswith("MR") else "CT") if m else "?"
+    location = "?"
+    l = re.search(r"location:\s*([^\n]+)", answer, re.I)
+    if l:
+        txt = l.group(1).strip().lower()
+        for loc in MEDGEMMA_LOCS:
+            if txt.startswith(loc.lower().split()[0]):
+                location = loc
+                break
+        else:
+            for k, v in MEDGEMMA_SYN.items():
+                if k in txt:
+                    location = v
+                    break
+    return modality, location
+
 def get_block(sample, key, upper_key):
     # sex, treatment & follow up are the likely missing
     if key in sample[upper_key] and sample[upper_key][key] != "N/A" and sample[upper_key][key] is not None:

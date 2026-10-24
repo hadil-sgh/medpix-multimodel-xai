@@ -3,5 +3,7 @@
     "prompt_input": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\n{instruction}\n\n### Input:\n{input}\n\n### Response:\n", 
     "instruction_modality": "Given the following medical images and the patient history, provide information about the caption modality.",
     "instruction_location": "Given the following medical images and the patient history, provide information about the body part shown in the image.",
-    "instruction_joint": "Given the following medical images and the patient history, provide information about the caption modality and the body part shown in the image."
+    "instruction_joint": "Given the following medical images and the patient history, provide information about the caption modality and the body part shown in the image.",
+    "system_medgemma": "You are an expert radiologist.",
+    "question_medgemma": "What is the imaging modality and which body region is shown?\nAnswer in exactly this format:\nModality: <CT or MR>\nLocation: <one of: Head, Thorax, Abdomen, Spine and Muscles, Reproductive and Urinary System>"
 }
