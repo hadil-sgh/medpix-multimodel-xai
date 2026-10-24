@@ -57,6 +57,9 @@ if __name__ == '__main__':
     elif llm_model == 'dr_minerva':
         llm_model_name = "PATH/TO/dr_minerva"
         llm_model_str = "dr_minerva"
+    elif llm_model == 'mpt1b':
+        llm_model_name = "anas-awadalla/mpt-1b-redpajama-200b"
+        llm_model_str = "mpt-1b"
     else:
         llm_model == 'minerva'
         llm_model_name = "sapienzanlp/Minerva-3B-base-v1.0"
@@ -161,7 +164,17 @@ if __name__ == '__main__':
                     split_text = "The image shows a "
                 text = f"<image> {age}{sex}patient. {history}\n{split_text}"
                 
-                raw_output = inference(vision_context + [vision_query], prompt+text, model, tokenizer, device).split(split_text)[context_counter]
+                # keep the prompt under MPT-1B's 2048-token limit: drop the oldest RAG examples if needed
+                ctx_chunks = [c + '<|endofchunk|>' for c in context_str.split('<|endofchunk|>') if c.strip()]
+                ctx_vis = list(vision_context)
+                instr = prompt[:len(prompt) - len(context_str)] if context_str else prompt
+                while ctx_chunks and len(tokenizer(instr + ''.join(ctx_chunks) + text)['input_ids']) > 2048 - 25:
+                    ctx_chunks.pop(0); ctx_vis.pop(0)
+                n_ctx = len(ctx_chunks) + 1 if context_str else context_counter
+                try:
+                    raw_output = inference(ctx_vis + [vision_query], instr + ''.join(ctx_chunks) + text, model, tokenizer, device).split(split_text)[n_ctx]
+                except (AssertionError, IndexError):
+                    raw_output = '[skipped: prompt too long]'
                 output = raw_output.replace('\n', ' <nl>')
 
                 with open(f"{path}experiments/{n_exp}/results-{inference_split}-{inference_label}.txt", "a") as f:

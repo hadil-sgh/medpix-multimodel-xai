@@ -1,0 +1,1332 @@
+--------------------------------------------------
+CT scan showing a Abdomen.<|endofchunk|>
+--------------------------------------------------
+ustensils. 
+--------------------------------------------------
+ustensils. 
+--------------------------------------------------
+MRI scan showing a Head.<|endofchunk|>
+--------------------------------------------------
+MRI scan showing a Head.<|endofchunk|>
+--------------------------------------------------
+MRI scan showing a Head.<|endofchunk|>
+--------------------------------------------------
+MRI scan showing a Head.<|endofchunk|>
+--------------------------------------------------
+MRI scan showing a Head.<|endofchunk|>
+--------------------------------------------------
+MRI scan showing a Head.<|endofchunk|>
+--------------------------------------------------
+xtra-CT showing a Thorax. 86 y.o. male patient. 86 y/
+--------------------------------------------------
+xtra wide view of the pelvis.<|endofchunk|>
+--------------------------------------------------
+MRI showing a Brain. 57 y.o. male patient. 57 year-old man with 4
+--------------------------------------------------
+ict scan showing a Spine and Muscles. 57 y.o. male patient. 57 year
+--------------------------------------------------
+ict scan showing a Spine and Muscles. 57 y.o. male patient. 57 year
+--------------------------------------------------
+ CT scan showing a Head. 1 y.o. female patient. 21 month old girl with pro
+--------------------------------------------------
+xtra wide CT scan showing a Abdomen.<|endofchunk|>
+--------------------------------------------------
+	CT scan showing a Abdomen. 78 y.o. female patient. Complains of
+--------------------------------------------------
+ CT scan showing a Head. 25 y.o. male patient. 25 year old male complains of
+--------------------------------------------------
+ CT scan showing a Head. 25 y.o. male patient. 25 year old male complains of
+--------------------------------------------------
+usteral ultrasound showing a gallstone. 36 y.o. female patient. 36 year old female
+--------------------------------------------------
+ CT angiogram showing a Thorax. 20 y.o. female patient. 20 year old female
+--------------------------------------------------
+inguinal MR scan showing a Abdomen. 10 y.o. female patient. 10 year
+--------------------------------------------------
+inguinal MR scan showing a Abdomen. 10 y.o. female patient. 10 year
+--------------------------------------------------
+ CT scan showing a Abdomen. 75 y.o. male patient. 75 year old man
+--------------------------------------------------
+ CT scan showing a Abdomen. 9 y.o. female patient. A 9 year old
+--------------------------------------------------
+ CT scan showing a Abdomen. 9 y.o. female patient. A 9 year old
+--------------------------------------------------
+ CT scan showing a Abdomen. 9 y.o. female patient. A 9 year old
+--------------------------------------------------
+ CT scan showing a Thorax. 63 y.o. female patient. 63 y/o woman
+--------------------------------------------------
+MRI showing a Spine and Muscles. 46 y.o. male patient. History of progressive
+--------------------------------------------------
+MRI showing a Spine and Muscles. 46 y.o. male patient. History of progressive
+--------------------------------------------------
+ustensils CT scan showing a Spine and Muscles. 15 y.o. male patient
+--------------------------------------------------
+ustensils showing a Spine and Muscles. 15 y.o. male patient. 15
+--------------------------------------------------
+xtra wide CT scan showing a thorax.<|endofchunk|>
+--------------------------------------------------
+MRI scan showing a Brain. 76 y.o. female patient. Acute onset right sided neurological
+--------------------------------------------------
+MRI scan showing a Brain. 76 y.o. female patient. Acute onset right sided neurological
+--------------------------------------------------
+MRI scan showing a Brain. 76 y.o. female patient. Acute onset right sided neurological
+--------------------------------------------------
+MRI scan showing a Brain. 76 y.o. female patient. Acute onset right sided neurological
+--------------------------------------------------
+MRI scan showing a Head. 76 y.o. female patient. Acute onset right sided neurological
+--------------------------------------------------
+ CT scan showing a Spine and Muscles. 55 y.o. female patient. 55 y
+--------------------------------------------------
+ CT scan showing a Spine and Muscles. 55 y.o. female patient. 55 y
+--------------------------------------------------
+MRI showing a Head. 1 y.o. female patient. 15 month old baby girl with enlarg
+--------------------------------------------------
+inguinal MR scan showing a Reproductive and Urinary System. 1 y.o. female
+--------------------------------------------------
+MRI showing a Musculoskeletal System. 1 y.o. female patient. 15 month old baby girl
+--------------------------------------------------
+MRI showing a Head. 1 y.o. female patient. 15 month old baby girl with enlarg
+--------------------------------------------------
+MRI showing a Head. 1 y.o. female patient. 15 month old baby girl with enlarg
+--------------------------------------------------
+MRI showing a Head. 1 y.o. female patient. 15 month old baby girl with enlarg
+--------------------------------------------------
+MRI showing a Head. 1 y.o. female patient. 15 month old baby girl with enlarg
+--------------------------------------------------
+MRI showing a Head. 1 y.o. female patient. 15 month old baby girl with enlarg
+--------------------------------------------------
+ CT scan showing a Head. 76 y.o. female patient. 76 y.o. woman
+--------------------------------------------------
+ CT scan showing a Brain. 76 y.o. female patient. 76 y.o. woman
+--------------------------------------------------
+ CT scan showing a Head. 76 y.o. female patient. 76 y.o. woman
+--------------------------------------------------
+	CT scan showing a Abdomen. 28 y.o. female patient. 28 y/
+--------------------------------------------------
+	CT scan showing a Abdomen. 28 y.o. female patient. 28 y/
+--------------------------------------------------
+MRI showing a Head. 26 y.o. female patient. 26 yo female who had sudden loss
+--------------------------------------------------
+MRI showing a Head. 26 y.o. female patient. 26 yo female who had sudden loss
+--------------------------------------------------
+MRI showing a Head. 26 y.o. female patient. 26 yo female who had sudden loss
+--------------------------------------------------
+ CT scan showing a Spine and Muscles. 0 y.o. patient. 24 year old
+--------------------------------------------------
+inguinal MR scan showing a Spine and Muscles. 0 y.o. patient. 24
+--------------------------------------------------
+inguinal MR scan showing a Spine and Muscles. 0 y.o. patient. 24
+--------------------------------------------------
+CT scan showing a Abdomen.<|endofchunk|>
+--------------------------------------------------
+CT scan showing a Abdomen.<|endofchunk|>
+--------------------------------------------------
+CT scan showing a Abdomen.<|endofchunk|>
+--------------------------------------------------
+CT scan showing a Abdomen.<|endofchunk|>
+--------------------------------------------------
+xtra-lateral CT scan showing a Spine and Muscles.<|endofchunk|>
+--------------------------------------------------
+xtra-lateral CT scan showing a Spine and Muscles.<|endofchunk|>
+--------------------------------------------------
+MRI scan showing a Spine and Muscles. 8 y.o. male patient. 8 year
+--------------------------------------------------
+ CT scan showing a Thorax.<|endofchunk|>
+--------------------------------------------------
+ CT scan showing a Thorax.<|endofchunk|>
+--------------------------------------------------
+ CT scan showing a Thorax.<|endofchunk|>
+--------------------------------------------------
+ CT scan showing a Thorax.<|endofchunk|>
+--------------------------------------------------
+ CT scan showing a Thorax.<|endofchunk|>
+--------------------------------------------------
+ustensile T2-weighted MRI showing a Head. 34 y.o. male patient.
+--------------------------------------------------
+ustensile T2-weighted MRI showing a Head. 34 y.o. male patient.
+--------------------------------------------------
+ustensile T2-weighted MRI showing a Head. 34 y.o. male patient.
+--------------------------------------------------
+ustensile T2-weighted MRI showing a Head. 34 y.o. male patient.
+--------------------------------------------------
+ustensile T2-weighted MRI showing a Head. 34 y.o. male patient.
+--------------------------------------------------
+ustensile T2-weighted MRI showing a Head. 34 y.o. male patient.
+--------------------------------------------------
+MRI scan showing a Head. 31 y.o. female patient. 31 year old female with chronic
+--------------------------------------------------
+MRI scan showing a Head. 31 y.o. female patient. 31 year old female with chronic
+--------------------------------------------------
+MRI scan showing a Head. 31 y.o. female patient. 31 year old female with chronic
+--------------------------------------------------
+CT scan showing a Spine and Muscles. 20 y.o. male patient. 20 year
+--------------------------------------------------
+ CT scan showing a Spine and Muscles. 46 y.o. male patient. GSW
+--------------------------------------------------
+ CT scan showing a Spine and Muscles. 46 y.o. male patient. GSW
+--------------------------------------------------
+xtra-anatomic CT scan showing a Spine and Muscles. 46 y.o.
+--------------------------------------------------
+MRI scan showing a Head. 45 y.o. female patient. The patient presented with a history
+--------------------------------------------------
+MRI scan showing a Head. 45 y.o. female patient. The patient presented with a history
+--------------------------------------------------
+MRI scan showing a Head. 45 y.o. female patient. The patient presented with a history
+--------------------------------------------------
+	CT scan showing a Thorax. 68 y.o. male patient. 68 yo M brought
+--------------------------------------------------
+CT scan showing a Thorax. 32 y.o. male patient. 32 year old active duty
+--------------------------------------------------
+MRI scan showing a Head. 26 y.o. male patient. 26 year-old man,
+--------------------------------------------------
+CT scan showing a Head. 4 y.o. male patient. Headache and CNN palsy
+--------------------------------------------------
+CT scan showing a Head. 4 y.o. male patient. Headache and CNN palsy
+--------------------------------------------------
+MRI scan showing a Head. 4 y.o. male patient. Headache and CNN palsy
+--------------------------------------------------
+CT scan showing a Head. 4 y.o. male patient. Headache and CNN palsy
+--------------------------------------------------
+CT scan showing a Head. 32 y.o. male patient. 32 year-old male,
+--------------------------------------------------
+xtra wide view of the right lower extremity. 
+--------------------------------------------------
+ict scan showing a Abdomen. 23 y.o. female patient. 23 y/o
+--------------------------------------------------
+	CT scan showing a Head. 67 y.o. male patient. 67 year-old white
+--------------------------------------------------
+	CT scan showing a Head. 67 y.o. male patient. 67 year-old white
+--------------------------------------------------
+	CT scan showing a Head. 67 y.o. male patient. 67 year-old white
+--------------------------------------------------
+	CT scan showing a Head. 67 y.o. male patient. 67 year-old white
+--------------------------------------------------
+	CT scan showing a Head. 67 y.o. male patient. 67 year-old white
+--------------------------------------------------
+	CT scan showing a Head. 67 y.o. male patient. 67 year-old white
+--------------------------------------------------
+	MR scan showing a Head. 44 y.o. female patient. Patient referred by OB-
+--------------------------------------------------
+	MR scan showing a Head. 44 y.o. female patient. Patient referred by OB-
+--------------------------------------------------
+ustm MRI showing a Brain. 25 y.o. male patient. 25 yo male with new
+--------------------------------------------------
+ustm MRI showing a Brain. 25 y.o. male patient. 25 yo male with new
+--------------------------------------------------
+	CT scan showing a Thorax. 70 y.o. female patient. History (can include
+--------------------------------------------------
+	CT scan showing a Thorax. 70 y.o. female patient. History (can include
+--------------------------------------------------
+	CT scan showing a Thorax. 70 y.o. female patient. History (can include
+--------------------------------------------------
+	CT scan showing a Thorax. 70 y.o. female patient. History (can include
+--------------------------------------------------
+	CT scan showing a Thorax. 70 y.o. female patient. History (can include
+--------------------------------------------------
+	CT scan showing a Thorax. 70 y.o. female patient. History (can include
+--------------------------------------------------
+	CT scan showing a Thorax. 70 y.o. female patient. History (can include
+--------------------------------------------------
+	CT scan showing a Thorax. 70 y.o. female patient. History (can include
+--------------------------------------------------
+ CT scan showing a Thorax. 54 y.o. male patient. 54 year old male with
+--------------------------------------------------
+CT scan showing a Thorax. 54 y.o. male patient. 54 year old male with
+--------------------------------------------------
+CT scan showing a Thorax. 54 y.o. male patient. 54 year old male with
+--------------------------------------------------
+CT scan showing a Thorax. 54 y.o. male patient. 54 year old male with
+--------------------------------------------------
+CT scan showing a Thorax. 54 y.o. male patient. 54 year old male with
+--------------------------------------------------
+CT scan showing a Thorax. 54 y.o. male patient. 54 year old male with
+--------------------------------------------------
+CT scan showing a Thorax. 54 y.o. male patient. 54 year old male with
+--------------------------------------------------
+MRI showing a Head. 4 y.o. male patient. Seizures since age two.
+--------------------------------------------------
+inguinal scan showing Abdomen.<|endofchunk|>
+--------------------------------------------------
+inguinal scan showing the Abdomen.<|endofchunk|>
+--------------------------------------------------
+ CT scan showing a Abdomen. 30 y.o. female patient. 30 year old female
+--------------------------------------------------
+ CT scan showing a Abdomen. 30 y.o. female patient. 30 year old female
+--------------------------------------------------
+inguinal CT scan showing a Abdomen. 57 y.o. female patient. 57 yo
+--------------------------------------------------
+ CT scan showing a Abdomen. 57 y.o. female patient. 57 yo female with
+--------------------------------------------------
+	CT scan showing a Abdomen.<|endofchunk|>
+--------------------------------------------------
+	CT scan showing a Abdomen.<|endofchunk|>
+--------------------------------------------------
+	CT scan showing a Abdomen.<|endofchunk|>
+--------------------------------------------------
+ CT scan showing a Head. 32 y.o. male patient. 32 year-old man with
+--------------------------------------------------
+ CT scan showing a Head. 32 y.o. male patient. 32 year-old man with
+--------------------------------------------------
+ CT scan showing a Head. 49 y.o. male patient. 49 yo male with acute onset
+--------------------------------------------------
+	CT scan showing a Abdomen. 72 y.o. male patient. 72 Y/
+--------------------------------------------------
+	CT scan showing a Abdomen. 72 y.o. male patient. 72 Y/
+--------------------------------------------------
+	CT scan showing a Abdomen. 72 y.o. male patient. 72 Y/
+--------------------------------------------------
+	CT scan showing a Abdomen. 72 y.o. male patient. 72 Y/
+--------------------------------------------------
+	CT scan showing a Abdomen. 72 y.o. male patient. 72 Y/
+--------------------------------------------------
+	CT scan showing a Abdomen. 72 y.o. male patient. 72 Y/
+--------------------------------------------------
+inguinal CT scan showing a Abdomen. 72 y.o. male patient. 72 Y
+--------------------------------------------------
+inguinal CT scan showing a Abdomen. 72 y.o. male patient. 72 Y
+--------------------------------------------------
+inguinal CT scan showing a Abdomen. 72 y.o. male patient. 72 Y
+--------------------------------------------------
+inguinal CT scan showing a Abdomen. 72 y.o. male patient. 72 Y
+--------------------------------------------------
+inguinal CT scan showing a Abdomen. 72 y.o. male patient. 72 Y
+--------------------------------------------------
+inguinal CT scan showing a Abdomen. 72 y.o. male patient. 72 Y
+--------------------------------------------------
+ CT scan showing a Thorax. 27 y.o. male patient. 27 year old active duty
+--------------------------------------------------
+	CT scan showing a Abdomen.<|endofchunk|>
+--------------------------------------------------
+urn CT scan showing a Thorax. 49 y.o. male patient. 49-year-
+--------------------------------------------------
+urn CT scan showing a Thorax. 49 y.o. male patient. 49-year-
+--------------------------------------------------
+urn CT scan showing a Thorax. 49 y.o. male patient. 49-year-
+--------------------------------------------------
+ CT scan showing a Abdomen. 27 y.o. female patient. 27 year old female
+--------------------------------------------------
+ CT scan showing a Abdomen. 27 y.o. female patient. 27 year old female
+--------------------------------------------------
+ CT scan showing a Abdomen. 27 y.o. female patient. 27 year old female
+--------------------------------------------------
+ CT scan showing a Abdomen. 27 y.o. female patient. 27 year old female
+--------------------------------------------------
+CT scan showing a Abdomen. 82 y.o. female patient. 82 year old female
+--------------------------------------------------
+xtra-contrast CT scan showing a Abdomen. 56 y.o. male patient.
+--------------------------------------------------
+ictal CT scan showing a Head.<|endofchunk|>
+--------------------------------------------------
+ictal CT scan showing a Head.<|endofchunk|>
+--------------------------------------------------
+ustomy showing a Abdomen. 42 y.o. female patient. 42 year old female
+--------------------------------------------------
+ustensils showing a Abdomen. 42 y.o. female patient. 42 year old
+--------------------------------------------------
+ustensils showing a Abdomen. 42 y.o. female patient. 42 year old
+--------------------------------------------------
+MRI showing a Brain. 21 y.o. male patient. 21 yo male with a new onset
+--------------------------------------------------
+MRI showing a Brain. 21 y.o. male patient. 21 yo male presenting with a new
+--------------------------------------------------
+MRI showing a Brain. 21 y.o. male patient. 21 yo male presenting with a new
+--------------------------------------------------
+MRI showing a Brain. 21 y.o. male patient. 21 yo male presenting with a new
+--------------------------------------------------
+MRI showing a Brain. 21 y.o. male patient. 21 yo male with a new onset
+--------------------------------------------------
+MRI showing a Brain. 21 y.o. male patient. 21 yo male presenting with a new
+--------------------------------------------------
+MRI showing a Brain. 21 y.o. male patient. 21 yo male presenting with a new
+--------------------------------------------------
+MRI showing a Brain. 21 y.o. male patient. 21 yo male presenting with a new
+--------------------------------------------------
+MRI showing a Brain. 21 y.o. male patient. 21 yo male presenting with a new
+--------------------------------------------------
+MRI showing a Brain. 21 y.o. male patient. 21 yo male with a new onset
+--------------------------------------------------
+MRI showing a Brain. 21 y.o. male patient. 21 yo male with a new onset
+--------------------------------------------------
+MRI showing a Brain. 21 y.o. male patient. 21 yo male presenting with a new
+--------------------------------------------------
+MRI showing a Brain. 21 y.o. male patient. 21 yo male presenting with a new
+--------------------------------------------------
+MRI showing a Brain. 21 y.o. male patient. 21 yo male with a new onset
+--------------------------------------------------
+MRI showing a Brain. 21 y.o. male patient. 21 yo male with a new onset
+--------------------------------------------------
+MRI showing a Brain. 21 y.o. male patient. 21 yo male presenting with a new
+--------------------------------------------------
+MRI showing a Brain. 21 y.o. male patient. 21 yo male presenting with a new
+--------------------------------------------------
+MRI showing a Brain. 21 y.o. male patient. 21 yo male presenting with a new
+--------------------------------------------------
+MRI showing a Brain. 21 y.o. male patient. 21 yo male presenting with a new
+--------------------------------------------------
+MRI showing a Brain. 21 y.o. male patient. 21 yo male with a new onset
+--------------------------------------------------
+CT scan showing a Thorax. 18 y.o. male patient. Cough. 
+
+--------------------------------------------------
+MRI showing a Spine and Muscles. 18 y.o. male patient. 18 y/
+--------------------------------------------------
+MRI showing a Spine and Muscles. 18 y.o. male patient. 18 y/
+--------------------------------------------------
+	CT scan showing a Head. 
+--------------------------------------------------
+	CT scan showing a Thorax. 62 y.o. female patient. 	The image
+--------------------------------------------------
+urn CT scan showing a Thorax. 53 y.o. female patient. A 53-year
+--------------------------------------------------
+urn CT scan showing a Thorax. 53 y.o. female patient. A 53-year
+--------------------------------------------------
+urn CT scan showing a Thorax. 53 y.o. female patient. A 53-year
+--------------------------------------------------
+ict scan showing a Thorax. 62 y.o. male patient. 62 yo male with history
+--------------------------------------------------
+xtra-contrast CT scan showing a Thorax. 62 y.o. male patient. 62
+--------------------------------------------------
+ict scan showing a Thorax. 62 y.o. male patient. 62 yo male with history
+--------------------------------------------------
+xtra-contrast CT scan showing a Thorax.<|endofchunk|>
+--------------------------------------------------
+ictus showing a Abdomen. 53 y.o. male patient. History of right upper
+--------------------------------------------------
+ict scan showing a Abdomen. 53 y.o. male patient. History of right upper
+--------------------------------------------------
+ CT scan showing a Head.<|endofchunk|>
+--------------------------------------------------
+MRI scan showing a Head. 71 y.o. female patient. Hypertension and episodic
+--------------------------------------------------
+urn scan showing a Ureterovesicular junction obstruction.<|endofchunk|>
+--------------------------------------------------
+urn scan showing a Ureterovesicular junction obstruction.<|endofchunk|>
+--------------------------------------------------
+urn scan showing a Ureterovesicular junction obstruction.<|endofchunk|>
+--------------------------------------------------
+urn scan showing a Ureterovesicular junction obstruction.<|endofchunk|>
+--------------------------------------------------
+	CT scan showing a Spine and Muscles. 76 y.o. female patient. A
+--------------------------------------------------
+	CT scan showing a Spine and Muscles. 76 y.o. female patient. A
+--------------------------------------------------
+usteral CT scan showing a Head. 4 y.o. male patient. 4 year old male
+--------------------------------------------------
+ustensils CT scan showing a Head. 4 y.o. male patient. 4 year old
+--------------------------------------------------
+	CT scan showing a Thorax.<|endofchunk|>
+--------------------------------------------------
+	CT scan showing a Thorax.<|endofchunk|>
+--------------------------------------------------
+MRI showing a Spine and Muscles. 42 y.o. male patient. 42 year old
+--------------------------------------------------
+MRI showing a Spine and Muscles. 42 y.o. male patient. 42 year-
+--------------------------------------------------
+MRI showing a Spine and Muscles. 42 y.o. male patient. 42 year old
+--------------------------------------------------
+CT scan showing a Chest. 21 y.o. male patient. Was near a soldier who stepped
+--------------------------------------------------
+	CT scan showing a Abdomen.<|endofchunk|>
+--------------------------------------------------
+	CT scan showing a Abdomen.<|endofchunk|>
+--------------------------------------------------
+	CT scan showing a Abdomen.<|endofchunk|>
+--------------------------------------------------
+	CT scan showing a Head. 87 y.o. female patient. -87 year old woman
+--------------------------------------------------
+	CT scan showing a Head. 87 y.o. female patient. -87 year old woman
+--------------------------------------------------
+	CT scan showing a Head. 87 y.o. female patient. -87 year old woman
+--------------------------------------------------
+	CT scan showing a Head. 87 y.o. female patient. -87 year old woman
+--------------------------------------------------
+MRI scan showing a Head. 46 y.o. female patient. 46 year old woman with headache
+--------------------------------------------------
+MRI scan showing a Head. 46 y.o. female patient. 46 year old woman with headache
+--------------------------------------------------
+ CT scan showing a Head. 46 y.o. female patient. 46 year old woman with headache
+--------------------------------------------------
+MRI scan showing a Brain. 0 y.o. patient. 
+
+--------------------------------------------------
+ CT scan showing a Thorax. 63 y.o. male patient. 63 yo male with h
+--------------------------------------------------
+ CT scan showing a Thorax. 15 y.o. male patient. 15 year old boy,
+--------------------------------------------------
+ CT scan showing a Thorax. 15 y.o. male patient. 15 year old boy,
+--------------------------------------------------
+ CT scan showing a Thorax. 15 y.o. male patient. 15 year old boy,
+--------------------------------------------------
+ CT scan showing a Head. 15 y.o. male patient. 15 year old boy, air
+--------------------------------------------------
+ CT scan showing a Thorax. 15 y.o. male patient. 15 year old boy,
+--------------------------------------------------
+CT scan showing a Thorax. 36 y.o. male patient. 36 year-old Caucasian
+--------------------------------------------------
+CT scan showing a Thorax. 36 y.o. male patient. 36 year-old Caucasian
+--------------------------------------------------
+CT scan showing a Thorax. 36 y.o. male patient. 36 year-old Caucasian
+--------------------------------------------------
+MRI showing a Spine and Muscles. 33 y.o. male patient. 33 y/
+--------------------------------------------------
+MRI showing a Spine and Muscles. 33 y.o. male patient. 33 y/
+--------------------------------------------------
+MRI showing a Spine and Muscles. 33 y.o. male patient. 33 y/
+--------------------------------------------------
+MRI showing a Spine and Muscles. 33 y.o. male patient. 33 y/
+--------------------------------------------------
+MRI showing a Spine and Muscles. 33 y.o. male patient. 33 y/
+--------------------------------------------------
+ictus showing a Head.<|endofchunk|>
+--------------------------------------------------
+ictus showing a Head. 34 y.o. female patient. 34-year-old African
+--------------------------------------------------
+ictus showing a Head.<|endofchunk|>
+--------------------------------------------------
+ustensils x 3 weeks post partum. 
+--------------------------------------------------
+ictus showing a Head. 34 y.o. female patient. 34-year-old African
+--------------------------------------------------
+ictus showing a Head. 34 y.o. female patient. 34-year-old African
+--------------------------------------------------
+ictus showing a Head.<|endofchunk|>
+--------------------------------------------------
+ CT scan showing a Abdomen. 67 y.o. female patient. 67 year-old
+--------------------------------------------------
+ CT scan showing a Abdomen. 67 y.o. female patient. 67 year-old
+--------------------------------------------------
+ict scan showing a Abdomen. 74 y.o. female patient. 74 yo WF
+--------------------------------------------------
+ict scan showing a Abdomen. 74 y.o. female patient. 74 yo WF
+--------------------------------------------------
+MRI showing a Brain. 20 y.o. female patient. 20 year-old female with a
+--------------------------------------------------
+MRI showing a Brain. 20 y.o. female patient. 20 year-old female with a
+--------------------------------------------------
+MRI showing a Brain. 20 y.o. female patient. 20 year-old female with a
+--------------------------------------------------
+MRI showing a Brain. 20 y.o. female patient. 20 year-old female with a
+--------------------------------------------------
+MRI showing a Brain. 20 y.o. female patient. 20 year-old female with a
+--------------------------------------------------
+MRI showing a Brain. 20 y.o. female patient. 20 year-old female with a
+--------------------------------------------------
+xtra wide CT scan showing a thorax.<|endofchunk|>
+--------------------------------------------------
+xtra wide CT scan showing a thorax.<|endofchunk|>
+--------------------------------------------------
+xtra wide CT scan showing a thorax.<|endofchunk|>
+--------------------------------------------------
+xtra wide CT scan showing a thorax.<|endofchunk|>
+--------------------------------------------------
+xtra wide CT scan showing a thorax.<|endofchunk|>
+--------------------------------------------------
+MRI showing a Knee and Joint. 72 y.o. female patient. 72 year old female
+--------------------------------------------------
+MRI showing a Knee Joint. 72 y.o. female patient. 72 year old female with
+--------------------------------------------------
+MRI showing a knee. 72 y.o. female patient. 72 year old female with knee pain
+--------------------------------------------------
+MRI showing a Knee Joint. 72 y.o. female patient. 72 year old female with
+--------------------------------------------------
+MRI scan showing a Head. 1 y.o. male patient. 21 yo male presenting with high
+--------------------------------------------------
+MRI scan showing a Brain. 1 y.o. male patient. 21 yo male presenting with fever
+--------------------------------------------------
+MRI scan showing a Brain. 1 y.o. male patient. 21 yo male presenting with fever
+--------------------------------------------------
+MRI scan showing a Head. 1 y.o. male patient. 21 yo male presenting with fever
+--------------------------------------------------
+MRI scan showing a Head. 1 y.o. male patient. 21 yo male presenting with fever
+--------------------------------------------------
+ustensils. 
+--------------------------------------------------
+MRI scan showing a Head. 1 y.o. male patient. 21 yo male presenting with fever
+--------------------------------------------------
+MRI scan showing a Head. 1 y.o. male patient. 21 yo male presenting with high
+--------------------------------------------------
+ict scan showing a Head. 17 y.o. female patient. 17 yo girl presents with left
+--------------------------------------------------
+ict scan showing a Head. 17 y.o. female patient. 17 yo girl presents with left
+--------------------------------------------------
+ict scan showing a Head. 17 y.o. female patient. 17 yo girl presents with left
+--------------------------------------------------
+ict scan showing a Head. 17 y.o. female patient. 17 yo girl presents with left
+--------------------------------------------------
+ict scan showing a Head. 17 y.o. female patient. 17 yo girl presents with left
+--------------------------------------------------
+ict scan showing a Head. 17 y.o. female patient. 17 yo girl presents with left
+--------------------------------------------------
+ict scan showing a Head. 17 y.o. female patient. 17 yo girl presents with left
+--------------------------------------------------
+ict scan showing a Head. 17 y.o. female patient. 17 yo girl presents with left
+--------------------------------------------------
+ict scan showing a Head. 17 y.o. female patient. 17 yo girl presents with left
+--------------------------------------------------
+ict scan showing a Head. 17 y.o. female patient. 17 yo girl presents with left
+--------------------------------------------------
+ict scan showing a Head. 17 y.o. female patient. 17 yo girl presents with left
+--------------------------------------------------
+ict scan showing a Head. 17 y.o. female patient. 17 yo girl presents with left
+--------------------------------------------------
+ict scan showing a Head. 17 y.o. female patient. 17 yo girl presents with left
+--------------------------------------------------
+ict scan showing a Head. 17 y.o. female patient. 17 yo girl presents with left
+--------------------------------------------------
+ictogram showing a Head. 17 y.o. female patient. 17 yo girl presents with left
+--------------------------------------------------
+ict scan showing a Head. 17 y.o. female patient. 17 yo girl presents with left
+--------------------------------------------------
+ict scan showing a Head. 17 y.o. female patient. 17 yo girl presents with left
+--------------------------------------------------
+ict scan showing a Head. 17 y.o. female patient. 17 yo girl presents with left
+--------------------------------------------------
+ict scan showing a Head. 17 y.o. female patient. 17 yo girl presents with left
+--------------------------------------------------
+ict scan showing a Head. 17 yo girl presents with left sided facial weakness and numbness and
+--------------------------------------------------
+ictogram showing a Head. 17 yo girl presents with left sided facial weakness and numbness and
+--------------------------------------------------
+ict scan showing a Head. 17 y.o. female patient. 17 yo girl presents with left
+--------------------------------------------------
+ict scan showing a Head. 17 y.o. female patient. 17 yo girl presents with left
+--------------------------------------------------
+ict scan showing a Head. 17 y.o. female patient. 17 yo girl presents with left
+--------------------------------------------------
+ict scan showing a Head. 17 y.o. female patient. 17 yo girl presents with left
+--------------------------------------------------
+ict scan showing a Head. 17 y.o. female patient. 17 yo girl presents with left
+--------------------------------------------------
+ict scan showing a Head. 17 y.o. female patient. 17 yo girl presents with left
+--------------------------------------------------
+ict scan showing a Head. 17 y.o. female patient. 17 yo girl presents with left
+--------------------------------------------------
+ict scan showing a Head. 17 y.o. female patient. 17 yo girl presents with left
+--------------------------------------------------
+ict scan showing a Head. 17 y.o. female patient. 17 yo girl presents with left
+--------------------------------------------------
+ictogram showing a Head. 17 y.o. female patient. 17 yo girl presents with left
+--------------------------------------------------
+inguinal MR scan showing a Abdomen. 25 y.o. female patient. Patient 1
+--------------------------------------------------
+ CT scan showing a Spine and Muscles. 69 y.o. male patient. 69 y
+--------------------------------------------------
+ CT scan showing a Head. 20 y.o. male patient. 20 year-old male with
+--------------------------------------------------
+ CT scan showing a Abdomen. 20 y.o. male patient. 20 year-old
+--------------------------------------------------
+ CT scan showing a Head. 20 y.o. male patient. 20 year-old male with
+--------------------------------------------------
+ CT scan showing a Head. 20 y.o. male patient. 20 year-old male with
+--------------------------------------------------
+ CT scan showing a Head. 50 y.o. male patient. 50 yo male with history of
+--------------------------------------------------
+ CT scan showing a Head. 50 y.o. male patient. 50 yo male with history of
+--------------------------------------------------
+MRI showing a Brain. 50 y.o. male patient. 50 yo male with history of progressive
+--------------------------------------------------
+MRI showing a Spine and Muscles. 38 y.o. female patient. 38-year
+--------------------------------------------------
+ CT scan showing a Abdomen. 60 y.o. male patient. 60 year old male
+--------------------------------------------------
+ CT scan showing a Abdomen. 60 y.o. male patient. 60 year old male
+--------------------------------------------------
+ CT scan showing a Abdomen. 60 y.o. male patient. 60 year old male
+--------------------------------------------------
+	CT scan showing a Thorax. 64 y.o. male patient. 64 y/o
+--------------------------------------------------
+	CT scan showing a Head. 68 y.o. female patient. 68 y/o woman
+--------------------------------------------------
+	CT scan showing a Head. 68 y.o. female patient. 68 y/o woman
+--------------------------------------------------
+	CT scan showing a Head. 68 y.o. female patient. 68 y/o woman
+--------------------------------------------------
+	CT scan showing a Head. 68 y.o. female patient. 68 y/o woman
+--------------------------------------------------
+	CT scan showing a Head. 68 y.o. female patient. 68 y/o woman
+--------------------------------------------------
+	CT scan showing a Head.<|endofchunk|>
+--------------------------------------------------
+	CT scan showing a Head. 68 y.o. female patient. 68 y/o woman
+--------------------------------------------------
+	CT scan showing a Head. 68 y.o. female patient. 68 y/o woman
+--------------------------------------------------
+MRI scan showing a Head. 68 y.o. female patient. 68 y/o woman with
+--------------------------------------------------
+ CT scan showing a Head. 49 y.o. male patient. Patient with prior history of left
+--------------------------------------------------
+ CT scan showing a Head. 49 y.o. male patient. Patient with prior history of left
+--------------------------------------------------
+ CT scan showing a Head. 49 y.o. male patient. Patient with prior history of left
+--------------------------------------------------
+ CT scan showing a Brain. 49 y.o. male patient. Patient with prior history of left
+--------------------------------------------------
+CT scan showing a Liver.<|endofchunk|>
+--------------------------------------------------
+CT scan showing a Liver.<|endofchunk|>
+--------------------------------------------------
+	CT scan showing a Abdomen.<|endofchunk|>
+--------------------------------------------------
+	CT scan showing a Abdomen.<|endofchunk|>
+--------------------------------------------------
+	CT scan showing a Abdomen.<|endofchunk|>
+--------------------------------------------------
+	CT scan showing a Abdomen.<|endofchunk|>
+--------------------------------------------------
+	CT scan showing a Head.<|endofchunk|>
+--------------------------------------------------
+	CT scan showing a Head.<|endofchunk|>
+--------------------------------------------------
+	CT scan showing a Head.<|endofchunk|>
+--------------------------------------------------
+	CT scan showing a Head.<|endofchunk|>
+--------------------------------------------------
+	CT scan showing a Head.<|endofchunk|>
+--------------------------------------------------
+MRI showing a Head. 33 y.o. male patient. 33 year old male with increasing headaches
+--------------------------------------------------
+MRI showing a Head. 33 y.o. male patient. 33 year old male with increasing headaches
+--------------------------------------------------
+MRI showing a Head. 33 y.o. male patient. 33 year old male with increasing headaches
+--------------------------------------------------
+MRI showing a Head. 33 y.o. male patient. 33 year old male with increasing headaches
+--------------------------------------------------
+MRI showing a Head. 33 y.o. male patient. 33 year old male with increasing headaches
+--------------------------------------------------
+MRI showing a Head. 33 y.o. male patient. 33 year old male with increasing headaches
+--------------------------------------------------
+MRI showing a Head. 33 y.o. male patient. 33 year old male with increasing headaches
+--------------------------------------------------
+MRI showing a Head. 33 y.o. male patient. 33 year old male with increasing headaches
+--------------------------------------------------
+MRI showing a Head. 33 y.o. male patient. 33 year old male with increasing headaches
+--------------------------------------------------
+MRI showing a Head. 33 y.o. male patient. 33 year old male with increasing headaches
+--------------------------------------------------
+MRI showing a Head. 33 y.o. male patient. 33 year old male with increasing headaches
+--------------------------------------------------
+ict scan showing a Abdomen. 70 y.o. patient. 70 year old female for
+--------------------------------------------------
+ict scan showing a Abdomen. 70 y.o. patient. 70 year old female for
+--------------------------------------------------
+ict scan showing a Abdomen. 70 y.o. patient. 70 year old female for
+--------------------------------------------------
+ict scan showing a Abdomen. 70 y.o. patient. 70 year old female for
+--------------------------------------------------
+ict scan showing a Abdomen. 70 y.o. patient. 70 year old female for
+--------------------------------------------------
+ict scan showing a Abdomen. 70 y.o. patient. 70 year old female for
+--------------------------------------------------
+MRI showing a Spine and Muscles. 21 y.o. male patient. 21 year old
+--------------------------------------------------
+MRI showing a Spine and Muscles. 21 y.o. male patient. 21 year old
+--------------------------------------------------
+MRI scan showing a Spine and Muscles. 21 y.o. male patient. 21 year
+--------------------------------------------------
+MRI scan showing a Spine and Muscles. 21 y.o. male patient. 21 year
+--------------------------------------------------
+MRI scan showing a Spine and Muscles. 21 y.o. male patient. 21 year
+--------------------------------------------------
+MRI scan showing a Spine and Muscles. 21 y.o. male patient. 21 year
+--------------------------------------------------
+ustensilab scan showing a Abdomen. 36 y.o. female patient. recurrent
+--------------------------------------------------
+ CT scan showing a Head. 84 y.o. male patient. 84 year old male referred to
+--------------------------------------------------
+ CT scan showing a Head. 84 y.o. male patient. 84 year old male referred to
+--------------------------------------------------
+ustensils CT scan showing a Head. 84 y.o. male patient. 84 year old
+--------------------------------------------------
+ustensils CT scan showing a Head. 84 y.o. male patient. 84 year old
+--------------------------------------------------
+ CT scan showing a Head. 84 y.o. male patient. 84 year old male referred to
+--------------------------------------------------
+	CT scan showing a Thorax.<|endofchunk|>
+--------------------------------------------------
+	CT scan showing a Head. 46 y.o. female patient. 46 year-old woman
+--------------------------------------------------
+	CT scan showing a Brain.<|endofchunk|>
+--------------------------------------------------
+	CT scan showing a Brain.<|endofchunk|>
+--------------------------------------------------
+	CT scan showing a Head.<|endofchunk|>
+--------------------------------------------------
+MRI scan showing a Spine and Muscles. 21 y.o. female patient. 21 year
+--------------------------------------------------
+MRI scan showing a Spine and Muscles. 21 y.o. female patient. 21 year
+--------------------------------------------------
+xtra-contrast CT scan showing a Thorax. 64 y.o. male patient. 64
+--------------------------------------------------
+CT scan showing a Spine and Muscles. 35 y.o. male patient. A male
+--------------------------------------------------
+CT scan showing a Spine and Muscles.<|endofchunk|>
+--------------------------------------------------
+	CT scan showing a Thorax. 46 y.o. female patient. 46 yo woman with
+--------------------------------------------------
+	CT scan showing a Thorax. 46 y.o. female patient. 46 yo woman with
+--------------------------------------------------
+ CT scan showing a Chest. 21 y.o. male patient. 21 year-old man with
+--------------------------------------------------
+inguinal CT scan showing a Abdomen. 25 y.o. male patient. 25 yo
+--------------------------------------------------
+urn showing a Chest. 25 y.o. male patient. 25 yo with no past medical history
+--------------------------------------------------
+inguinal CT scan showing a Abdomen. 25 y.o. male patient. 25 yo
+--------------------------------------------------
+xtra-anatomic CT scan showing a Abdomen. 25 y.o. male patient
+--------------------------------------------------
+inguinal CT scan showing a Abdomen. 25 y.o. male patient. 25 yo
+--------------------------------------------------
+inguinal CT scan showing a Abdomen. 25 y.o. male patient. 25 yo
+--------------------------------------------------
+CT scan showing a Thorax. 40 y.o. male patient. 40 year old male with
+--------------------------------------------------
+CT scan showing a Thorax. 40 y.o. male patient. 40 year old male with
+--------------------------------------------------
+ictal CT scan showing a Abdomen. 26 y.o. male patient. 26 y
+--------------------------------------------------
+inguinal MR scan showing a Abdomen. 26 y.o. female patient. 26 y
+--------------------------------------------------
+ustensils CT scan showing a Chest. 20 y.o. male patient. 20 year old
+--------------------------------------------------
+ CT scan showing a Head. 26 y.o. male patient. 26 year-old man,
+--------------------------------------------------
+ CT scan showing a Head. 26 y.o. male patient. 26 year-old man,
+--------------------------------------------------
+	CT scan showing a Thorax. 71 y.o. female patient. Nasal stuffiness
+--------------------------------------------------
+ CT scan showing a Abdomen. 85 y.o. female patient. 85 y.o
+--------------------------------------------------
+ CT scan showing a Abdomen. 85 y.o. female patient. 85 y.o
+--------------------------------------------------
+ CT scan showing a Head. 26 y.o. male patient. 26 year-old man with
+--------------------------------------------------
+MRI showing a Head. 26 y.o. male patient. 26 year-old man with increasing
+--------------------------------------------------
+ CT scan showing a Head. 26 y.o. male patient. 26 year-old man with
+--------------------------------------------------
+ CT scan showing a Head. 26 y.o. male patient. 26 year-old man with
+--------------------------------------------------
+ CT scan showing a Head. 26 y.o. male patient. 26 year-old man with
+--------------------------------------------------
+MRI showing a Head. 26 y.o. male patient. 26 year-old man with increasing
+--------------------------------------------------
+MRI showing a Head. 26 y.o. male patient. 26 year-old man with increasing
+--------------------------------------------------
+MRI showing a Head. 65 y.o. male patient. 65 year old white male presents with
+--------------------------------------------------
+MRI showing a Brain. 65 y.o. male patient. 65 year old white male presents with
+--------------------------------------------------
+MRI showing a Brain. 65 y.o. male patient. 65 year old white male presents with
+--------------------------------------------------
+MRI showing a Head. 65 y.o. male patient. 65 year old white male presents with
+--------------------------------------------------
+MRI showing a Spine and Muscles. 49 y.o. male patient. 49 y/
+--------------------------------------------------
+MRI showing a Spine and Muscles. 49 y.o. male patient. 49 y/
+--------------------------------------------------
+MRI showing a Spine and Muscles. 49 y.o. male patient. 49 y/
+--------------------------------------------------
+ict scan showing a Thorax. 22 y.o. male patient. 22 yo male with a
+--------------------------------------------------
+xtra-illuminated CT scan showing a Thorax. 22 y.o. male patient
+--------------------------------------------------
+xtra-illuminated CT scan showing a Thorax. 22 y.o. male patient
+--------------------------------------------------
+xtra-illuminated CT scan showing a Thorax. 22 y.o. male patient
+--------------------------------------------------
+xtra-illuminated CT scan showing a Thorax. 22 y.o. male patient
+--------------------------------------------------
+xtra-illuminated CT scan showing a Thorax. 22 y.o. male patient
+--------------------------------------------------
+xtra-illuminated CT scan showing a Thorax. 22 y.o. male patient
+--------------------------------------------------
+xtra-illuminated CT scan showing a Thorax. 22 y.o. male patient
+--------------------------------------------------
+xtra-illuminated CT scan showing a Thorax. 22 y.o. male patient
+--------------------------------------------------
+xtra-illuminated CT scan showing a Thorax. 22 y.o. male patient
+--------------------------------------------------
+MRI showing a Spine and Muscles. 23 y.o. male patient. 23 yo male
+--------------------------------------------------
+MRI showing a Spine and Muscles. 23 y.o. male patient. 23 yo male
+--------------------------------------------------
+MRI showing a Spine and Muscles. 23 y.o. male patient. 23 yo male
+--------------------------------------------------
+MRI scan showing a Brain. 23 y.o. male patient. 23 yo male presenting with right
+--------------------------------------------------
+urn CT scan showing a Thorax.<|endofchunk|>
+--------------------------------------------------
+ustensils. The patient is a 35 year old active duty Air Force male nordic ski
+--------------------------------------------------
+ustensils. The patient is a 35 year old active duty Air Force male nordic ski
+--------------------------------------------------
+ustensils. The patient is a 35 year old active duty Air Force male nordic ski
+--------------------------------------------------
+	CT scan showing a Head. 15 y.o. female patient. Patient presented with a 2
+--------------------------------------------------
+CT scan showing a Abdomen. 79 y.o. male patient. 79 year old male
+--------------------------------------------------
+CT scan showing a Abdomen. 79 y.o. male patient. 79 year old male
+--------------------------------------------------
+CT scan showing a Abdomen. 79 y.o. male patient. 79 year old male
+--------------------------------------------------
+CT scan showing a Abdomen. 79 y.o. male patient. 79 year old male
+--------------------------------------------------
+	CT scan showing a Abdomen. 79 y.o. male patient. 79 year old
+--------------------------------------------------
+CT scan showing a Abdomen. 79 y.o. male patient. 79 year old male
+--------------------------------------------------
+	CT scan showing a Abdomen. 79 y.o. male patient. 79 year old
+--------------------------------------------------
+CT scan showing a Reproductive and Urinary System. 59 yo woman referred for renal ultrasound.
+--------------------------------------------------
+xtra-lateral CT scan showing a Lung and Pleura. 66 y.o. male
+--------------------------------------------------
+xtra wide CT scan showing a Abdomen.<|endofchunk|>
+--------------------------------------------------
+xtra-contrast CT scan showing a Thorax. 56 y.o. male patient. ICU
+--------------------------------------------------
+xtra-contrast CT scan showing a Thorax. 56 y.o. male patient. ICU
+--------------------------------------------------
+xtra-contrast CT scan showing a Thorax. 56 y.o. male patient. ICU
+--------------------------------------------------
+xtra-contrast CT scan showing a Thorax. 56 y.o. male patient. ICU
+--------------------------------------------------
+ CT scan showing a Thorax. 56 y.o. male patient. ICU patient who, after
+--------------------------------------------------
+xtra-contrast CT scan showing a Thorax. 56 y.o. male patient. ICU
+--------------------------------------------------
+ict scan showing a Abdomen. 35 y.o. female patient. A 35 year-
+--------------------------------------------------
+ict scan showing a Abdomen. 35 y.o. female patient. A 35 year-
+--------------------------------------------------
+ict scan showing a Brain. 35 y.o. female patient. A 35 year-old Hispanic
+--------------------------------------------------
+ict scan showing a Brain. 35 y.o. female patient. A 35 year-old Hispanic
+--------------------------------------------------
+ict scan showing a Brain. 35 y.o. female patient. A 35 year-old Hispanic
+--------------------------------------------------
+ict scan showing a Abdomen. 35 y.o. female patient. A 35 year-
+--------------------------------------------------
+ict scan showing a Brain. 35 y.o. female patient. A 35 year-old Hispanic
+--------------------------------------------------
+ustensils. 
+--------------------------------------------------
+inguinal CT scan showing a Abdomen. 80 y.o. female patient. 80 year
+--------------------------------------------------
+ict scan showing a Abdomen. 0 y.o. patient. 71 year-old male
+--------------------------------------------------
+ict scan showing a Abdomen. 0 y.o. patient. 71 year-old male
+--------------------------------------------------
+ict scan showing a Abdomen. 0 y.o. patient. 71 year-old male
+--------------------------------------------------
+ict scan showing a Abdomen. 0 y.o. patient. 71 year-old male
+--------------------------------------------------
+ict scan showing a Abdomen. 0 y.o. patient. 71 year-old male
+--------------------------------------------------
+	MR scan showing a Spine and Muscles. 41 y.o. female patient. 41
+--------------------------------------------------
+	MR scan showing a Spine and Muscles. 41 y.o. female patient. 41
+--------------------------------------------------
+ CT scan showing a Thorax. 65 y.o. female patient. 65 year old female,
+--------------------------------------------------
+	CT scan showing a Abdomen. 82 y.o. male patient. 82 yo man
+--------------------------------------------------
+inguinal CT scan showing a Abdomen. 82 y.o. male patient. 82 yo
+--------------------------------------------------
+	CT scan showing a Abdomen. 82 y.o. male patient. 82 yo man
+--------------------------------------------------
+	CT scan showing a Reproductive and Urinary System.<|endofchunk|>
+--------------------------------------------------
+	CT scan showing a Reproductive and Urinary System.<|endofchunk|>
+--------------------------------------------------
+ CT scan showing a Head. 10 y.o. boy 
+
+--------------------------------------------------
+ CT scan showing a Thorax. 10 y.o. boy 
+
+--------------------------------------------------
+MRI scan showing a Brain. 10 y.o. boy 
+
+--------------------------------------------------
+xtra-high resolution CT scan showing a Abdomen. 57 y.o. female patient
+--------------------------------------------------
+xtra-high resolution CT scan showing a Abdomen. 57 y.o. female patient
+--------------------------------------------------
+xtra-high resolution CT scan showing a Abdomen. 57 y.o. female patient
+--------------------------------------------------
+ CT scan showing a Abdomen. 33 y.o. female patient. 33 year old woman
+--------------------------------------------------
+ CT scan showing a Abdomen. 33 y.o. female patient. 33 year old woman
+--------------------------------------------------
+ CT scan showing a Abdomen. 33 y.o. female patient. 33 year old woman
+--------------------------------------------------
+	CT scan showing a Head. 30 y.o. male patient. 30 year old male was
+--------------------------------------------------
+MRI showing a Brain. 30 y.o. male patient. 30 year old male was admitted to
+--------------------------------------------------
+MRI showing a Brain. 30 y.o. male patient. 30 year old male was admitted to
+--------------------------------------------------
+MRI showing a Brain. 30 y.o. male patient. 30 year old male was admitted to
+--------------------------------------------------
+usteral ultrasound showing a Uterus. 34 y.o. female patient. 34 yo female
+--------------------------------------------------
+usteral ultrasound showing a Uterus.<|endofchunk|>
+--------------------------------------------------
+	CT scan showing a Abdomen.<|endofchunk|>
+--------------------------------------------------
+	CT scan showing a Thorax. 65 y.o. female patient. 65 year old German
+--------------------------------------------------
+ CT scan showing a Abdomen. 45 y.o. male patient. 45 yo man with
+--------------------------------------------------
+ CT scan showing a Abdomen. 45 y.o. male patient. 45 yo man with
+--------------------------------------------------
+ CT scan showing a Abdomen. 45 y.o. male patient. 45 yo man with
+--------------------------------------------------
+ CT scan showing a Abdomen. 45 y.o. male patient. 45 yo man with
+--------------------------------------------------
+CT scan showing a Reproductive and Urinary System. 43 y.o. female patient.
+--------------------------------------------------
+ CT scan showing a Abdomen. 42 y.o. female patient. 42 y/o
+--------------------------------------------------
+ CT scan showing a Abdomen. 42 y.o. female patient. 42 y/o
+--------------------------------------------------
+CT scan showing a Head. 45 y.o. male patient. 45 year old male with known
+--------------------------------------------------
+CT scan showing a Head. 45 y.o. male patient. 45 year old male with known
+--------------------------------------------------
+CT scan showing a Head. 45 y.o. male patient. 45 year old male with known
+--------------------------------------------------
+CT scan showing a Head. 45 y.o. male patient. 45 year old male with known
+--------------------------------------------------
+	CT scan showing a Thorax. 67 y.o. female patient. 67-year-
+--------------------------------------------------
+ CT scan showing a Spine and Muscles. 24 y.o. male patient. 24 year
+--------------------------------------------------
+	CT scan showing a Abdomen.<|endofchunk|>
+--------------------------------------------------
+ CT scan showing a Spine and Muscles. 23 y.o. male patient. 23 yo
+--------------------------------------------------
+	CT scan showing a Thorax.<|endofchunk|>
+--------------------------------------------------
+	CT scan showing a Thorax.<|endofchunk|>
+--------------------------------------------------
+CT scan showing a Head. 0 y.o. female patient. Adult female with history of headaches
+--------------------------------------------------
+MRI showing a Head. 0 y.o. female patient. Adult female with history of headaches after
+--------------------------------------------------
+MRI scan showing a Head. 0 y.o. female patient. Adult female with history of headaches
+--------------------------------------------------
+CT scan showing a Liver. 65 y.o. female patient. Painless jaundice.
+--------------------------------------------------
+CT scan showing a Liver. 65 y.o. female patient. Painless jaundice.
+--------------------------------------------------
+CT scan showing a Liver. 65 y.o. female patient. Painless jaundice.
+--------------------------------------------------
+ CT scan showing a Abdomen.<|endofchunk|>
+--------------------------------------------------
+ CT scan showing a Abdomen.<|endofchunk|>
+--------------------------------------------------
+CT scan showing a Abdomen.<|endofchunk|>
+--------------------------------------------------
+xtra-scapular MRI scan showing a Spine and Muscles.<|endofchunk|>
+--------------------------------------------------
+xtra-scapular CT scan showing a Spine and Muscles.<|endofchunk|>
+--------------------------------------------------
+	CT scan showing a Muscle and Joint. 26 y.o. male patient. 26 y
+--------------------------------------------------
+	CT scan showing a Muscles. 26 y.o. male patient. 26 y/o
+--------------------------------------------------
+	CT scan showing a Muscles. 26 y.o. male patient. 26 y/o
+--------------------------------------------------
+ CT scan showing a Abdomen. 55 y.o. female patient. G1P0
+--------------------------------------------------
+ CT scan showing a Abdomen. 55 y.o. female patient. G1P0
+--------------------------------------------------
+ CT scan showing a Abdomen. 55 y.o. female patient. G1P0
+--------------------------------------------------
+ CT scan showing a Abdomen. 55 y.o. female patient. G1P0
+--------------------------------------------------
+ CT scan showing a Abdomen. 55 y.o. female patient. G1P0
+--------------------------------------------------
+ CT scan showing a Abdomen. 55 y.o. female patient. G1P0
+--------------------------------------------------
+ CT scan showing a Abdomen. 55 y.o. female patient. G1P0
+--------------------------------------------------
+ CT scan showing a Abdomen. 55 y.o. female patient. G1P0
+--------------------------------------------------
+ CT scan showing a Abdomen. 55 y.o. female patient. G1P0
+--------------------------------------------------
+ CT scan showing a Abdomen. 55 y.o. female patient. G1P0
+--------------------------------------------------
+ CT scan showing a Abdomen. 55 y.o. female patient. G1P0
+--------------------------------------------------
+ CT scan showing a Abdomen. 55 y.o. female patient. G1P0
+--------------------------------------------------
+ CT scan showing a Abdomen. 55 y.o. female patient. G1P0
+--------------------------------------------------
+ CT scan showing a Head. 40 y.o. male patient. 40 yo male with history of
+--------------------------------------------------
+	CT scan showing a Thorax. 60 y.o. female patient. 60 year old woman
+--------------------------------------------------
+	CT scan showing a Thorax. 60 y.o. female patient. 60 year old woman
+--------------------------------------------------
+	CT scan showing a Thorax. 60 y.o. female patient. 60 year old woman
+--------------------------------------------------
+MRI showing a Spine and Muscles. 48 y.o. male patient. 48 y/
+--------------------------------------------------
+MRI showing a Spine and Muscles. 48 y.o. male patient. 48 y/
+--------------------------------------------------
+MRI showing a Spine and Muscles. 48 y.o. male patient. 48 y/
+--------------------------------------------------
+MRI showing a Spine and Muscles. 48 y.o. male patient. 48 y/
+--------------------------------------------------
+MRI showing a Spine and Muscles. 48 y.o. male patient. 48 y/
+--------------------------------------------------
+ustensilized knee X-ray showing a Spine and Muscles. 48 y.o
+--------------------------------------------------
+ict scan showing a Thorax. 46 y.o. male patient. 46-year-old
+--------------------------------------------------
+CT scan showing a Reproductive and Urinary System. 1 y.o. male patient.
+--------------------------------------------------
+CT scan showing a Reproductive and Urinary System. 1 y.o. male patient.
+--------------------------------------------------
+CT scan showing a Reproductive and Urinary System. 1 y.o. male patient.
+--------------------------------------------------
+	CT scan showing a Spine and Muscles. 52 y.o. female patient. 52
+--------------------------------------------------
+CT scan showing a Thorax. 64 y.o. female patient. Shortness fo breath with
+--------------------------------------------------
+CT scan showing a Thorax. 64 y.o. female patient. Shortness fo breath with
+--------------------------------------------------
+CT scan showing a Thorax. 56 y.o. female patient. 56 year old female patient
+--------------------------------------------------
+CT scan showing a Thorax. 56 y.o. female patient. 56 year old female patient
+--------------------------------------------------
+ictal CT showing a Head. 22 y.o. male patient. 22yo M transported to
+--------------------------------------------------
+MRI scan showing a Spine and Muscles. 10 y.o. male patient. 10 year
+--------------------------------------------------
+MRI scan showing a Knee. 10 y.o. male patient. 10 year-old boy
+--------------------------------------------------
+MRI scan showing a Knee. 10 y.o. male patient. 10 year-old boy
+--------------------------------------------------
+	CT scan showing a Head. 79 y.o. female patient. The patient is a 79
+--------------------------------------------------
+ictal CT scan showing a Head. 79 y.o. female patient. The patient is a
+--------------------------------------------------
+xtra-anterior view of the head. 58 y.o. female patient. 58yo
+--------------------------------------------------
+xtracorporeal Doppler showing a right ventricular outflow tract obstruction. 
+--------------------------------------------------
+ CT scan showing a Thorax. 6 y.o. female patient. 6 yo girl with multiple
+--------------------------------------------------
+ CT scan showing a Abdomen.<|endofchunk|>
+--------------------------------------------------
+ CT scan showing a Abdomen. 77 y.o. male patient. 77 year-old
+--------------------------------------------------
+MRI showing a Head.<|endofchunk|>
+--------------------------------------------------
+MRI showing a Head.<|endofchunk|>
+--------------------------------------------------
+MRI showing a Head.<|endofchunk|>
+--------------------------------------------------
+MRI showing a Head.<|endofchunk|>
+--------------------------------------------------
+MRI showing a Brain.<|endofchunk|>
+--------------------------------------------------
+ictus showing a Abdomen. 14 y.o. male patient. Teenage (14
+--------------------------------------------------
+CT scan showing a Thorax. 14 y.o. male patient. 14 year old male with
+--------------------------------------------------
+CT scan showing a Thorax. 14 y.o. male patient. 14 year old male with
+--------------------------------------------------
+CT scan showing a Thorax. 14 y.o. male patient. 14 year old male with
+--------------------------------------------------
+ CT scan showing a Thorax. 14 y.o. male patient. 14 year old male with
+--------------------------------------------------
+urn scan showing a Chest. 24 y.o. male patient. 24 yo man with IED
+--------------------------------------------------
+urn scan showing a Chest. 24 y.o. male patient. 24 yo man with IED
+--------------------------------------------------
+urn scan showing a Chest. 24 y.o. male patient. 24 yo man with IED
+--------------------------------------------------
+ict scan showing a Abdomen. 20 y.o. male patient. 20 yo man with
+--------------------------------------------------
+ CT scan showing a Brain. 89 y.o. female patient. 89 y/o with past
+--------------------------------------------------
+ CT scan showing a Brain. 89 y.o. female patient. 89 y/o with past
+--------------------------------------------------
+ CT scan showing a Brain. 89 y.o. female patient. 89 y/o with past
+--------------------------------------------------
+ CT scan showing a Brain. 89 y.o. female patient. 89 y/o with past
+--------------------------------------------------
+ CT scan showing a Brain. 89 y.o. female patient. 89 y/o with past
+--------------------------------------------------
+ CT scan showing a Brain. 89 y.o. female patient. 89 y/o with past
+--------------------------------------------------
+ CT scan showing a Brain. 89 y.o. female patient. 89 y/o with past
+--------------------------------------------------
+ CT scan showing a Brain. 89 y.o. female patient. 89 y/o with past
+--------------------------------------------------
+ CT scan showing a Brain. 89 y.o. female patient. 89 y/o with past
+--------------------------------------------------
+ict scan showing a Abdomen. 50 y.o. female patient. This previously healthy 50
+--------------------------------------------------
+ict scan showing a Abdomen. 50 y.o. female patient. This previously healthy 50
+--------------------------------------------------
+ict scan showing a Abdomen. 50 y.o. female patient. This previously healthy 50
+--------------------------------------------------
+ict scan showing a Abdomen. 50 y.o. female patient. This previously healthy 50
+--------------------------------------------------
+ict scan showing a Abdomen. 50 y.o. female patient. This previously healthy 50
+--------------------------------------------------
+ict scan showing a Brain. 50 y.o. female patient. This previously healthy 50 y.
+--------------------------------------------------
+ict scan showing a Abdomen. 50 y.o. female patient. This previously healthy 50
+--------------------------------------------------
+ict scan showing a Brain. 50 y.o. female patient. This previously healthy 50 y.
+--------------------------------------------------
+ict scan showing a Brain. 50 y.o. female patient. This previously healthy 50 y.
+--------------------------------------------------
+ict scan showing a Brain. 50 y.o. female patient. This previously healthy 50 y.
+--------------------------------------------------
+ict scan showing a Brain. 50 y.o. female patient. This previously healthy 50 y.
+--------------------------------------------------
+ict scan showing a Brain. 50 y.o. female patient. This previously healthy 50 y.
+--------------------------------------------------
+ CT scan showing a Abdomen. 77 yo female presents to emergency department for worsening abdominal pain.
+--------------------------------------------------
+ CT scan showing a Abdomen. 77 yo female presents to emergency department for worsening abdominal pain.
+--------------------------------------------------
+ CT scan showing a Abdomen. 77 yo female presents to emergency department for worsening abdominal pain.
+--------------------------------------------------
+ CT scan showing a Abdomen. 77 yo female presents to emergency department for worsening abdominal pain.
+--------------------------------------------------
+urn scan showing a Reproductive and Urinary System. 39 y.o. female patient.
+--------------------------------------------------
+CT scan showing a Thorax. 15 y.o. male patient. 15 year old male with
+--------------------------------------------------
+MRI showing a Spine and Muscles. 26 y.o. male patient. 26 year old
+--------------------------------------------------
+MRI showing a Spine and Muscles. 26 y.o. male patient. 26 year old
+--------------------------------------------------
+MRI showing a Spine and Muscles. 26 y.o. male patient. 26 year old
+--------------------------------------------------
+ CT scan showing a Head. 27 y.o. male patient. Patient presented after a 9-
+--------------------------------------------------
+ CT scan showing a Head. 27 y.o. male patient. Patient presented after a 9-
+--------------------------------------------------
+MRI showing a Head. 27 y.o. male patient. Patient presented after a 9-month
+--------------------------------------------------
+ CT scan showing a Head. 27 y.o. male patient. Patient presented after a 9-
+--------------------------------------------------
+	MRI scan showing a Head.<|endofchunk|>
+--------------------------------------------------
+urn scan showing a Abdomen. 22 y.o. male patient. A previously healthy 22
+--------------------------------------------------
+urn scan showing a Abdomen. 22 y.o. male patient. A previously healthy 22
+--------------------------------------------------
+xtra-sagittal CT scan showing a Knee. 22 y.o. male patient
+--------------------------------------------------
+ict scan showing a Abdomen. 45 y.o. male patient. 45 year old male
+--------------------------------------------------
+ict scan showing a Abdomen. 45 y.o. male patient. 45 year old male
+--------------------------------------------------
+	CT scan showing a Thorax. 57 y.o. female patient. 57yo F with
+--------------------------------------------------
+	MRI showing a Head. 21 y.o. male patient. History: 21y.o
+--------------------------------------------------
+	MRI showing a Head. 21 y.o. male patient. History: 21y.o
+--------------------------------------------------
+	MRI showing a Head. 21 y.o. male patient. History: 21y.o
+--------------------------------------------------
+	MRI scan showing a Head. 21 y.o. male patient. History: 21y.
+--------------------------------------------------
+	MRI showing a Head. 21 y.o. male patient. History: 21y.o
+--------------------------------------------------
+	MRI showing a Head. 21 y.o. male patient. History: 21y.o
+--------------------------------------------------
+ustensils. 
+--------------------------------------------------
+MRI showing a Spine and Muscles. 34 y.o. male patient. 34-year
+--------------------------------------------------
+MRI showing a Spine and Muscles. 34 y.o. male patient. 34-year
+--------------------------------------------------
+ustensils. 
+--------------------------------------------------
+ustensils. 
+--------------------------------------------------
+ CT scan showing a Abdomen. 19 y.o. male patient. 19 yo male with
+--------------------------------------------------
+ictus CT scan showing a Abdomen. 19 y.o. male patient. 19 yo
+--------------------------------------------------
+ CT scan showing a Abdomen. 19 y.o. male patient. 19 yo male with
+--------------------------------------------------
+ CT scan showing a Abdomen. 19 y.o. male patient. 19 yo male with
+--------------------------------------------------
+ CT scan showing a Abdomen. 19 y.o. male patient. 19 yo male with
+--------------------------------------------------
+ CT scan showing a Head. 14 y.o. male patient. 14 y/o male with
+--------------------------------------------------
+ CT scan showing a Head. 14 y.o. male patient. 14 y/o male with
+--------------------------------------------------
+	CT scan showing a Head. 1 y.o. male patient. Full-term neonate
+--------------------------------------------------
+usteral CT scan showing a Head. 1 y.o. male patient. Full-term neon
+--------------------------------------------------
+	CT scan showing a Head. 1 y.o. male patient. Full-term neonate
+--------------------------------------------------
+usteral CT scan showing a Head. 1 y.o. male patient. Full-term neon
+--------------------------------------------------
+MRI scan showing a Brain. 0 y.o. male patient. Full-term neonate with
+--------------------------------------------------
+inguinal MR scan showing a Reproductive and Urinary System. 1 y.o. male
+--------------------------------------------------
+	CT scan showing a Head. 1 y.o. male patient. Full-term neonate
+--------------------------------------------------
+	CT scan showing a Head. 1 y.o. male patient. Full-term neonate
+--------------------------------------------------
+	CT scan showing a Head. 0 y.o. male patient. Full-term neonate
+--------------------------------------------------
+inguinal MR scan showing a Reproductive and Urinary System. 1 y.o. male
+--------------------------------------------------
+	CT scan showing a Head. 0 y.o. male patient. Full-term neonate
+--------------------------------------------------
+MRI showing a Head. 21 y.o. female patient. 21 y/o woman who presented
+--------------------------------------------------
+MRI showing a Head. 21 y.o. female patient. 21 y/o woman who presented
+--------------------------------------------------
+MRI showing a Head. 21 y.o. female patient. 21 y/o woman who presented
+--------------------------------------------------
+MRI showing a Head. 21 y.o. female patient. 21 y/o woman who presented
+--------------------------------------------------
+MRI showing a Head. 21 y.o. female patient. 21 y/o woman who presented
+--------------------------------------------------
+MRI showing a Head. 21 y.o. female patient. 21 y/o woman who presented
+--------------------------------------------------
+MRI showing a Spine and Muscles. 40 y.o. male patient. 40 year old
+--------------------------------------------------
+MRI showing a Spine and Muscles. 40 y.o. male patient. 40 year old
+--------------------------------------------------
+MRI showing a Spine and Muscles. 40 y.o. male patient. 40 year old
+--------------------------------------------------
+MRI showing a Spine and Muscles. 40 y.o. male patient. 40 year old
+--------------------------------------------------
+ CT scan showing a Abdomen.<|endofchunk|>
+--------------------------------------------------
+ictus CT scan showing a Abdomen.<|endofchunk|>
+--------------------------------------------------
+ictus CT scan showing a Abdomen.<|endofchunk|>
+--------------------------------------------------
+ictus CT scan showing a Abdomen.<|endofchunk|>
+--------------------------------------------------
+ictus CT scan showing a Abdomen.<|endofchunk|>
+--------------------------------------------------
+ustmri scan showing a Brain. 6 y.o. male patient. His mother provides a
+--------------------------------------------------
+ustensilized brain. 6 y.o. male patient. His mother provides a history of
+--------------------------------------------------
+ustensilized brain. 6 y.o. male patient. His mother provides a history of
+--------------------------------------------------

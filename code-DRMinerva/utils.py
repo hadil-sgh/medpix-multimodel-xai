@@ -78,29 +78,39 @@ def get_description_per_uid(dataset_description):
     return description_per_uid
 
 def load_model(clip_vision_encoder_path, clip_vision_encoder_pretrained, lang_encoder_path, tokenizer_path, device, checkpoint=None):
-    model, image_processor, tokenizer = create_model_and_transforms(
-        #device,
-        clip_vision_encoder_path = clip_vision_encoder_path,
-        clip_vision_encoder_pretrained = clip_vision_encoder_pretrained,
-        lang_encoder_path = lang_encoder_path,
+    import gc
+    import open_flamingo.src.factory as of_factory
+    from transformers import AutoModelForCausalLM
+
+    class _LM:
+        @staticmethod
+        def from_pretrained(*a, **k):
+            k["trust_remote_code"] = True
+            k["torch_dtype"] = torch.float16
+            return AutoModelForCausalLM.from_pretrained(*a, **k)
+    of_factory.AutoModelForCausalLM = _LM
+
+    is_mpt = "mpt" in lang_encoder_path.lower()
+    model, image_processor, tokenizer = of_factory.create_model_and_transforms(
+        clip_vision_encoder_path=clip_vision_encoder_path,
+        clip_vision_encoder_pretrained=clip_vision_encoder_pretrained,
+        lang_encoder_path=lang_encoder_path,
         tokenizer_path=tokenizer_path,
         cross_attn_every_n_layers=1,
-        decoder_layers_attr_name="model.layers",
-        #cache_dir="PATH/TO/CACHE/DIR"  # Defaults to ~/.cache
+        decoder_layers_attr_name=None if is_mpt else "model.layers",
     )
-
-    model.to(device)
+    model = model.to(device, dtype=torch.float16)
+    gc.collect()
     if checkpoint is not None:
-        msd = checkpoint["model_state_dict"]
-        msd = {k.replace("module.", ""): v for k, v in msd.items()}
+        msd = {k.replace("module.", ""): v for k, v in checkpoint["model_state_dict"].items()}
         model.load_state_dict(msd, strict=False)
         print("Model loaded from checkpoint")
     else:
-        # grab model checkpoint from huggingface hub
-        checkpoint_path = hf_hub_download("openflamingo/OpenFlamingo-3B-vitl-mpt1b", "checkpoint.pt")
-        model.load_state_dict(torch.load(checkpoint_path), strict=False)
-
-    model = model.half()
+        ckpt = hf_hub_download("openflamingo/OpenFlamingo-3B-vitl-mpt1b", "checkpoint.pt")
+        sd = torch.load(ckpt, map_location="cpu", mmap=True)
+        model.load_state_dict(sd, strict=False)
+        del sd
+    gc.collect(); torch.cuda.empty_cache()
     return model, image_processor, tokenizer
 
 def load_model_cpu(clip_vision_encoder_path, clip_vision_encoder_pretrained, lang_encoder_path, tokenizer_path, checkpoint=None):
@@ -193,7 +203,7 @@ def inference(visual_input, textual_input, model, tokenizer, device):
         lang_x=lang_x["input_ids"].to(device),
         attention_mask=lang_x["attention_mask"].to(device),
         max_new_tokens=20,
-        num_beams=3)
+        num_beams=1)
 
     output = tokenizer.decode(generated_text[0])
 
