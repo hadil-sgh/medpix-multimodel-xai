@@ -229,7 +229,25 @@ def load_medgemma(model_id="google/medgemma-4b-it"):
     model = AutoModelForImageTextToText.from_pretrained(model_id, quantization_config=bnb, device_map="auto")
     processor = AutoProcessor.from_pretrained(model_id)
     model.eval()
+    encode_images_one_by_one(model.base_model)
     return model, processor
+
+def encode_images_one_by_one(base_model):
+    # the vision encoder gets all RAG images as one batch; on a T4 its attention runs out of memory
+    # with 5 images (~14 GB), so encode them one at a time and concatenate the features
+    encode = base_model.get_image_features
+
+    def get_image_features(pixel_values, **kwargs):
+        outs = [encode(pixel_values[i:i + 1], **kwargs) for i in range(pixel_values.shape[0])]
+        if torch.is_tensor(outs[0]):  # older transformers return the features directly
+            return torch.cat(outs)
+        out = outs[0]
+        for key in ("last_hidden_state", "pooler_output"):
+            if getattr(out, key, None) is not None:
+                setattr(out, key, torch.cat([getattr(o, key) for o in outs]))
+        return out
+
+    base_model.get_image_features = get_image_features
 
 def medgemma_user_turn(image, age, sex, history, question):
     return {"role": "user", "content": [{"type": "image", "image": image},
